@@ -1,0 +1,6 @@
+Area,Model Script,Balanced Accuracy (%),Testing Accuracy (%),Training Accuracy (%),Precision (%),Recall (%),F1 Score (%)
+Anuradhapura,random_forest.py,57.43,,,,,20.29
+Kiribathgoda,tuned_xgboost.py,63.89,72.73,84.09,33.33,50.0,40.0
+Kiribathgoda,tuned_xgboost_with_bo_smote.py,66.67,77.27,94.32,40.0,50.0,44.44
+Kiribathgoda,tuned_xgboost_with_smote.py,66.67,77.27,89.77,40.0,50.0,44.44
+Kiribathgoda,xgboost_basic.py,59.72,81.82,96.59,50.0,25.0,33.33
