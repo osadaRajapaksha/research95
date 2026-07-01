@@ -1,0 +1,632 @@
+Road_Name,Road_Type,Segment_Index,Start_Lat,Start_Lon,End_Lat,End_Lon,Length_Meters,Dist_to_Intersection_m,No_of_Lanes,Speed_Limit_kmh,Road_Surface,Accident_Count,Sinuosity_Index,Start_Elevation_m,End_Elevation_m,Elevation_Gradient_Pct,Topography,Has_Zebra_Crossing,Has_Streetlight_Infrastructure,Road_Condition,Baseline_Traffic_Volume,Is_Hotspot
+D. S. Senanayake Mawatha,primary,1,8.308129,80.407333,8.309259,80.405915,200.0,99.97,2,60,asphalt,0,1.0001,88.7,89.9,0.6,Flat,0,1,Good,High,0
+D. S. Senanayake Mawatha,primary,2,8.309259,80.405915,8.310408,80.404512,200.0,299.97,2,70,asphalt,0,1.0,94.5,94.5,0.0,Flat,0,0,Fair,High,0
+D. S. Senanayake Mawatha,primary,3,8.310408,80.404512,8.311813,80.403373,200.0,498.42,2,70,asphalt,2,1.0017,92.3,92.4,0.05,Flat,0,1,Good,High,1
+D. S. Senanayake Mawatha,primary,4,8.311813,80.403373,8.313291,80.402326,200.0,694.87,2,60,asphalt,0,1.0001,91.0,89.8,0.6,Flat,1,1,Good,High,0
+D. S. Senanayake Mawatha,primary,5,8.313291,80.402326,8.314707,80.401196,200.0,577.24,2,60,asphalt,1,1.0001,86.6,86.4,0.1,Flat,0,1,Good,High,1
+D. S. Senanayake Mawatha,primary,6,8.314707,80.401196,8.31603,80.399959,200.0,378.68,2,60,asphalt,0,1.0006,86.6,86.7,0.05,Flat,0,1,Good,High,0
+D. S. Senanayake Mawatha,primary,7,8.31603,80.399959,8.317217,80.39859,200.0,179.35,2,60,asphalt,0,1.0006,85.6,84.8,0.4,Flat,1,1,Good,High,0
+D. S. Senanayake Mawatha,primary,8,8.317217,80.39859,8.317648,80.398013,79.45,39.76,2,70,asphalt,0,1.0004,93.7,93.0,0.88,Flat,0,1,Fair,High,0
+Anagarika Dharmapala Mawatha,primary,1,8.327044,80.410639,8.328662,80.411413,200.0,99.42,2,60,asphalt,0,1.0093,91.0,90.6,0.2,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,2,8.328662,80.411413,8.330268,80.412194,200.0,296.85,2,70,asphalt,0,1.0137,92.1,90.7,0.7,Flat,1,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,3,8.330268,80.412194,8.331868,80.413015,200.0,336.08,2,60,asphalt,0,1.0068,85.2,84.7,0.25,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,4,8.331868,80.413015,8.333533,80.413715,200.0,137.08,2,70,asphalt,0,1.0022,94.7,93.8,0.45,Flat,1,0,Fair,High,0
+Maithripala Senanayake Mawatha (Main Street),trunk,1,8.341625,80.411734,8.342314,80.411876,78.59,38.65,2,70,asphalt,1,1.0106,93.3,92.8,0.64,Flat,0,1,Good,High,1
+Malwatu Oya Left Bank Road,secondary,1,8.345994,80.407671,8.347248,80.408896,200.0,96.89,2,50,asphalt,0,1.034,87.1,86.0,0.55,Flat,1,1,Good,Moderate,0
+Malwatu Oya Left Bank Road,secondary,2,8.347248,80.408896,8.348871,80.409658,200.0,290.63,2,50,asphalt,0,1.0097,86.8,88.0,0.6,Flat,0,1,Good,Moderate,0
+Malwatu Oya Left Bank Road,secondary,3,8.348871,80.409658,8.350518,80.409058,200.0,230.51,2,50,asphalt,0,1.0325,86.8,87.1,0.15,Flat,0,1,Good,Moderate,0
+Malwatu Oya Left Bank Road,secondary,4,8.350518,80.409058,8.35105,80.408692,71.27,96.72,2,50,asphalt,0,1.0,88.0,88.5,0.7,Flat,0,1,Good,Moderate,0
+Nanadana Mawatha,secondary,1,8.346927,80.400262,8.348509,80.399481,200.0,371.8,2,50,asphalt,0,1.0262,90.2,91.1,0.45,Flat,0,1,Fair,Moderate,0
+Nanadana Mawatha,secondary,2,8.348509,80.399481,8.350273,80.399206,200.0,253.9,2,50,asphalt,0,1.0134,89.3,89.3,0.0,Flat,0,1,Good,Moderate,0
+Nanadana Mawatha,secondary,3,8.350273,80.399206,8.351411,80.398342,200.0,98.91,2,50,asphalt,0,1.2679,87.9,86.7,0.6,Flat,1,1,Good,Moderate,0
+Sri Maha Bodhi Mawatha,primary,1,8.343788,80.4031,8.344084,80.401309,200.0,100.03,2,60,asphalt,0,1.0005,91.1,91.2,0.05,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,2,8.344084,80.401309,8.344309,80.399903,156.72,78.39,2,60,asphalt,0,1.0,86.4,86.7,0.19,Flat,0,1,Good,High,0
+Dakanu Dagoba Mawatha,primary,1,8.34429,80.392613,8.342581,80.393069,200.0,96.23,2,60,asphalt,0,1.023,87.9,88.6,0.35,Flat,0,1,Good,High,0
+Dakanu Dagoba Mawatha,primary,2,8.342581,80.393069,8.341004,80.393955,200.0,293.6,2,60,asphalt,0,1.001,88.7,88.5,0.1,Flat,0,1,Good,High,0
+Dakanu Dagoba Mawatha,primary,3,8.341004,80.393955,8.339681,80.39512,200.0,192.05,2,60,asphalt,0,1.028,89.6,88.5,0.55,Flat,1,1,Good,High,0
+Dakanu Dagoba Mawatha,primary,4,8.339681,80.39512,8.338757,80.395294,103.95,51.93,2,70,asphalt,0,1.0001,92.9,92.3,0.58,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,1,8.338757,80.395294,8.340468,80.395854,200.0,99.13,2,60,asphalt,0,1.0052,87.0,86.6,0.2,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,2,8.340468,80.395854,8.342217,80.396318,200.0,225.04,2,60,asphalt,0,1.0,90.1,90.5,0.2,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,3,8.342217,80.396318,8.342515,80.396395,33.98,108.27,2,60,asphalt,0,1.0,90.9,91.1,0.59,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,1,8.327786,80.361388,8.328745,80.362928,200.0,139.2,2,60,asphalt,1,1.0,85.5,85.1,0.2,Flat,0,1,Good,High,1
+Old Puttalam Road,primary,2,8.328745,80.362928,8.329696,80.364473,200.0,286.27,2,60,asphalt,0,1.0,91.1,92.6,0.75,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,3,8.329696,80.364473,8.330659,80.36601,200.0,473.77,2,60,asphalt,0,1.0002,86.7,87.0,0.15,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,4,8.330659,80.36601,8.33161,80.367555,200.0,668.63,2,60,asphalt,0,1.0,85.7,84.9,0.4,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,5,8.33161,80.367555,8.333024,80.368518,200.0,862.72,2,70,asphalt,1,1.0587,94.5,93.3,0.6,Flat,1,0,Fair,High,1
+Old Puttalam Road,primary,6,8.333024,80.368518,8.334647,80.369248,200.0,1039.82,2,70,asphalt,0,1.0172,94.7,93.7,0.5,Flat,1,0,Fair,High,0
+Old Puttalam Road,primary,7,8.334647,80.369248,8.33632,80.369742,200.0,1222.49,2,70,asphalt,0,1.0373,93.1,92.3,0.4,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,8,8.33632,80.369742,8.337201,80.371292,200.0,1408.15,2,60,asphalt,0,1.0177,88.0,87.0,0.5,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,9,8.337201,80.371292,8.33809,80.372831,200.0,1587.84,2,60,asphalt,0,1.0209,86.0,85.1,0.45,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,10,8.33809,80.372831,8.33812,80.374644,200.0,1756.54,2,60,asphalt,0,1.0017,91.8,91.2,0.3,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,11,8.33812,80.374644,8.337481,80.376338,200.0,1877.81,2,60,asphalt,0,1.0027,89.4,88.4,0.5,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,12,8.337481,80.376338,8.337852,80.378023,200.0,1755.14,2,60,asphalt,0,1.0525,86.2,87.4,0.6,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,13,8.337852,80.378023,8.338937,80.379442,200.0,1609.6,2,60,asphalt,0,1.0153,90.0,88.7,0.65,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,14,8.338937,80.379442,8.340632,80.380065,200.0,1503.57,2,60,asphalt,0,1.0022,85.3,85.4,0.05,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,15,8.340632,80.380065,8.341858,80.381308,200.0,1363.27,2,70,asphalt,0,1.0383,94.1,93.8,0.15,Flat,0,0,Fair,High,0
+Old Puttalam Road,primary,16,8.341858,80.381308,8.342853,80.382759,200.0,1187.65,2,60,asphalt,0,1.031,87.6,89.0,0.7,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,17,8.342853,80.382759,8.342814,80.38451,200.0,998.13,2,60,asphalt,0,1.0371,91.6,90.4,0.6,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,18,8.342814,80.38451,8.342428,80.386268,200.0,819.26,2,60,asphalt,0,1.009,88.1,87.8,0.15,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,19,8.342428,80.386268,8.342884,80.387977,200.0,632.03,2,60,asphalt,0,1.0266,90.2,91.6,0.7,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,20,8.342884,80.387977,8.343878,80.389465,200.0,437.25,2,60,asphalt,0,1.0137,90.5,91.6,0.55,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,21,8.343878,80.389465,8.344501,80.391146,200.0,256.97,2,60,asphalt,0,1.0127,86.8,87.8,0.5,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,22,8.344501,80.391146,8.344635,80.391659,58.45,137.12,2,70,asphalt,0,1.0009,94.7,94.0,1.2,Flat,0,0,Fair,High,0
+Sangamitta Mawatha,secondary,2,8.368716,80.400618,8.366946,80.40045,200.0,288.4,2,50,asphalt,0,1.0175,92.8,91.8,0.5,Flat,0,0,Fair,Moderate,0
+Sangamitta Mawatha,secondary,3,8.366946,80.40045,8.365542,80.400867,200.0,465.85,2,60,asphalt,0,1.2355,94.4,94.9,0.25,Flat,0,0,Poor,Moderate,0
+Sangamitta Mawatha,secondary,4,8.365542,80.400867,8.364103,80.400026,200.0,613.17,2,60,asphalt,0,1.0865,93.9,95.2,0.65,Flat,0,0,Fair,Moderate,0
+Sangamitta Mawatha,secondary,5,8.364103,80.400026,8.362478,80.400794,200.0,793.78,2,50,asphalt,0,1.0072,91.0,91.2,0.1,Flat,0,1,Fair,Moderate,0
+Sangamitta Mawatha,secondary,6,8.362478,80.400794,8.360771,80.400865,200.0,796.82,2,60,asphalt,0,1.0588,94.2,94.4,0.1,Flat,0,0,Poor,Moderate,0
+Sangamitta Mawatha,secondary,7,8.360771,80.400865,8.359113,80.400162,200.0,616.33,2,50,asphalt,0,1.0051,85.9,85.2,0.35,Flat,0,1,Good,Moderate,0
+Sangamitta Mawatha,secondary,8,8.359113,80.400162,8.357426,80.399508,200.0,429.95,2,50,asphalt,0,1.0003,87.0,87.8,0.4,Flat,0,1,Good,Moderate,0
+Sangamitta Mawatha,secondary,9,8.357426,80.399508,8.355688,80.399008,200.0,275.12,2,50,asphalt,0,1.0006,85.5,84.6,0.45,Flat,0,1,Good,Moderate,0
+Sangamitta Mawatha,secondary,10,8.355688,80.399008,8.355514,80.398963,19.84,229.85,2,50,asphalt,0,1.0,88.3,87.8,2.52,Flat,0,1,Good,Moderate,0
+Nanadana Mawatha,secondary,1,8.346927,80.400262,8.347564,80.40196,200.0,349.63,2,50,asphalt,0,1.001,88.9,88.7,0.1,Flat,0,1,Good,Moderate,0
+Nanadana Mawatha,secondary,2,8.347564,80.40196,8.347627,80.402123,19.31,433.0,2,50,asphalt,0,1.003,87.7,87.7,0.0,Flat,0,1,Good,Moderate,0
+Arippu Road,tertiary,1,8.347141,80.393321,8.348002,80.391859,200.0,265.16,2,50,asphalt,0,1.0694,93.3,92.5,0.4,Flat,0,0,Fair,Moderate,0
+Arippu Road,tertiary,2,8.348002,80.391859,8.347788,80.390059,200.0,372.17,2,40,asphalt,0,1.002,88.6,87.4,0.6,Flat,0,0,Good,Moderate,0
+Arippu Road,tertiary,3,8.347788,80.390059,8.347525,80.388271,200.0,513.95,2,40,asphalt,0,1.005,87.8,88.1,0.15,Flat,0,1,Good,Moderate,0
+Arippu Road,tertiary,4,8.347525,80.388271,8.347019,80.386533,200.0,659.86,2,40,asphalt,0,1.0031,90.4,89.8,0.3,Flat,0,0,Fair,Moderate,0
+Arippu Road,tertiary,5,8.347019,80.386533,8.346932,80.384719,200.0,824.41,2,40,concrete,0,1.0001,86.4,86.6,0.1,Flat,0,1,Good,Moderate,0
+Arippu Road,tertiary,6,8.346932,80.384719,8.346895,80.383345,151.31,988.36,2,50,asphalt,0,1.0,93.0,92.0,0.66,Flat,0,0,Fair,Moderate,0
+Sri Maha Bodhi Mawatha (Market Street),primary,1,8.342314,80.411876,8.342617,80.410097,200.0,99.01,2,60,asphalt,0,1.0064,85.7,85.6,0.05,Flat,0,1,Good,High,0
+Halpanu Ela Left Bank Road,secondary,1,8.345479,80.402765,8.347192,80.402187,200.0,290.04,2,60,asphalt,0,1.001,94.9,95.0,0.05,Flat,0,0,Poor,Moderate,0
+Halpanu Ela Left Bank Road,secondary,2,8.347192,80.402187,8.348776,80.401449,200.0,460.02,2,50,asphalt,0,1.0359,92.7,91.4,0.65,Flat,1,0,Fair,Moderate,0
+Halpanu Ela Left Bank Road,secondary,3,8.348776,80.401449,8.3505,80.400928,200.0,381.93,2,50,asphalt,0,1.0048,87.0,86.5,0.25,Flat,0,1,Good,Moderate,0
+Halpanu Ela Left Bank Road,secondary,4,8.3505,80.400928,8.352302,80.400929,200.0,306.7,2,50,asphalt,0,1.0039,85.1,84.0,0.55,Flat,1,1,Good,Moderate,0
+Halpanu Ela Left Bank Road,secondary,5,8.352302,80.400929,8.353949,80.401554,200.0,380.69,2,60,asphalt,0,1.0274,93.2,91.9,0.65,Flat,1,0,Fair,Moderate,0
+Halpanu Ela Left Bank Road,secondary,6,8.353949,80.401554,8.35458,80.403248,200.0,307.25,2,50,asphalt,0,1.0043,92.1,93.6,0.75,Flat,0,0,Fair,Moderate,0
+Halpanu Ela Left Bank Road,secondary,7,8.35458,80.403248,8.355373,80.404365,151.91,135.72,2,50,concrete,0,1.0058,92.3,91.8,0.33,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Wata Wandana Road),secondary,5,8.369158,80.394774,8.369241,80.39296,200.0,664.62,2,50,asphalt,0,1.0003,92.7,93.6,0.45,Flat,0,0,Fair,Moderate,0
+Anuradhapura Road,trunk,1,8.355823,80.417918,8.355651,80.416813,124.49,58.39,2,60,asphalt,0,1.0109,85.7,85.0,0.56,Flat,0,1,Good,High,0
+Lankaramaya Road,secondary,1,8.364482,80.391144,8.364643,80.389351,200.0,542.92,2,50,asphalt,0,1.009,88.6,89.1,0.25,Flat,0,1,Good,Moderate,0
+Lankaramaya Road,secondary,2,8.364643,80.389351,8.365757,80.388592,200.0,439.02,2,50,asphalt,0,1.3437,86.2,87.0,0.4,Flat,0,1,Good,Moderate,0
+Lankaramaya Road,secondary,3,8.365757,80.388592,8.366882,80.387822,200.0,284.63,2,60,asphalt,0,1.3287,93.6,93.9,0.15,Flat,0,0,Fair,Moderate,0
+Lankaramaya Road,secondary,4,8.366882,80.387822,8.368688,80.38782,200.0,117.96,2,50,asphalt,0,1.0016,91.2,91.1,0.05,Flat,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.345933,80.40717,8.346675,80.405564,195.17,97.41,2,50,asphalt,0,1.0012,88.3,88.0,0.15,Flat,0,1,Good,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.345203,80.407542,8.345529,80.407436,37.84,30.79,2,50,asphalt,0,1.0,85.6,85.1,1.32,Flat,0,1,Good,Moderate,0
+Sri Maha Bodhi Mawatha,primary,1,8.343693,80.40362,8.34374,80.40336,29.08,43.64,2,60,asphalt,0,1.0,88.1,89.4,4.47,Mild Grade,0,1,Good,High,0
+Railway Place,secondary,1,8.343955,80.410542,8.342572,80.410376,154.0,76.96,2,50,asphalt,0,1.0001,88.3,89.3,0.65,Flat,0,1,Good,Moderate,0
+Harischandra Mawatha,trunk,1,8.335511,80.40973,8.33617,80.408038,200.0,203.09,2,70,asphalt,0,1.0,92.3,93.7,0.7,Flat,0,1,Good,High,0
+Harischandra Mawatha,trunk,2,8.33617,80.408038,8.336844,80.406353,200.0,101.06,2,60,asphalt,0,1.0003,91.4,90.3,0.55,Flat,1,1,Good,High,0
+Airport Road,trunk,1,8.309835,80.423091,8.308598,80.424416,200.0,100.05,2,70,asphalt,0,1.0001,93.9,94.6,0.35,Flat,0,1,Fair,High,0
+Airport Road,trunk,2,8.308598,80.424416,8.307371,80.42575,200.0,300.04,2,60,asphalt,0,1.0002,89.7,91.0,0.65,Flat,0,1,Good,High,0
+Airport Road,trunk,3,8.307371,80.42575,8.305863,80.426501,200.0,495.83,2,60,asphalt,0,1.0747,86.2,85.2,0.5,Flat,1,1,Good,High,0
+Airport Road,trunk,4,8.305863,80.426501,8.304229,80.425724,200.0,626.43,2,70,asphalt,0,1.0005,92.1,90.8,0.65,Flat,1,1,Good,High,0
+Airport Road,trunk,5,8.304229,80.425724,8.302589,80.424959,200.0,752.85,2,70,asphalt,0,1.0003,92.6,93.3,0.35,Flat,0,1,Good,High,0
+Airport Road,trunk,6,8.302589,80.424959,8.300967,80.424157,200.0,905.92,2,60,asphalt,1,1.0005,90.6,90.8,0.1,Flat,0,1,Good,High,1
+Airport Road,trunk,7,8.300967,80.424157,8.299559,80.423018,200.0,1060.52,2,70,asphalt,0,1.0004,92.7,93.7,0.5,Flat,0,1,Good,High,0
+Airport Road,trunk,8,8.299559,80.423018,8.298026,80.422105,200.0,1218.38,2,60,asphalt,0,1.0149,89.9,88.8,0.55,Flat,1,1,Good,High,0
+Airport Road,trunk,9,8.298026,80.422105,8.29623,80.422208,200.0,1409.46,2,60,asphalt,0,1.0056,90.2,91.1,0.45,Flat,0,1,Good,High,0
+Airport Road,trunk,10,8.29623,80.422208,8.295102,80.423476,200.0,1582.35,2,60,asphalt,2,1.0683,89.3,88.4,0.45,Flat,1,1,Good,High,1
+Airport Road,trunk,11,8.295102,80.423476,8.295757,80.425139,200.0,1607.14,2,60,asphalt,0,1.0156,85.3,84.3,0.5,Flat,1,1,Good,High,0
+Airport Road,trunk,12,8.295757,80.425139,8.296535,80.426773,200.0,1541.95,2,60,asphalt,0,1.0028,86.1,85.1,0.5,Flat,1,1,Good,High,0
+Airport Road,trunk,13,8.296535,80.426773,8.296905,80.42855,200.0,1533.7,2,60,asphalt,0,1.0004,85.3,86.2,0.45,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,1,8.344309,80.399903,8.344466,80.398938,107.67,53.79,2,60,asphalt,0,1.0,91.4,91.9,0.46,Flat,0,1,Good,High,0
+Godage Mawatha,tertiary,1,8.322129,80.407007,8.323588,80.408081,200.0,495.15,2,40,asphalt,0,1.0,88.1,88.2,0.05,Flat,0,0,Good,Moderate,0
+Godage Mawatha,tertiary,2,8.323588,80.408081,8.325047,80.409154,200.0,295.15,2,40,concrete,0,1.0002,90.1,89.7,0.2,Flat,0,0,Fair,Moderate,0
+Godage Mawatha,tertiary,3,8.325047,80.409154,8.326472,80.410201,195.16,97.57,2,50,asphalt,0,1.0,94.1,95.2,0.56,Flat,0,0,Poor,Moderate,0
+Buddhagaya Mawatha,secondary,1,8.322901,80.416076,8.321148,80.416065,200.0,757.49,2,50,asphalt,0,1.0319,87.5,87.2,0.15,Flat,0,1,Good,Moderate,0
+Buddhagaya Mawatha,secondary,2,8.321148,80.416065,8.319364,80.416295,200.0,914.96,2,50,asphalt,0,1.0057,89.1,90.0,0.45,Flat,0,1,Good,Moderate,0
+Buddhagaya Mawatha,secondary,3,8.319364,80.416295,8.317808,80.415442,200.0,1046.74,2,50,concrete,1,1.0204,92.6,92.4,0.1,Flat,0,0,Fair,Moderate,1
+Buddhagaya Mawatha,secondary,4,8.317808,80.415442,8.316359,80.414355,200.0,1133.96,2,50,asphalt,0,1.0001,87.3,86.9,0.2,Flat,0,1,Good,Moderate,0
+Buddhagaya Mawatha,secondary,5,8.316359,80.414355,8.314929,80.413242,200.0,1094.2,2,50,asphalt,0,1.0,85.8,85.7,0.05,Flat,0,1,Good,Moderate,0
+Buddhagaya Mawatha,secondary,6,8.314929,80.413242,8.313491,80.41214,200.0,894.54,2,50,concrete,0,1.0,87.9,87.3,0.3,Flat,0,1,Good,Moderate,0
+Buddhagaya Mawatha,secondary,7,8.313491,80.41214,8.31206,80.41103,200.0,695.1,2,50,asphalt,1,1.0004,86.6,87.3,0.35,Flat,0,1,Good,Moderate,1
+Buddhagaya Mawatha,secondary,8,8.31206,80.41103,8.31064,80.409904,200.0,495.95,2,60,asphalt,0,1.0,94.3,94.3,0.0,Flat,0,0,Poor,Moderate,0
+Buddhagaya Mawatha,secondary,9,8.31064,80.409904,8.309303,80.408688,200.0,297.34,2,60,asphalt,0,1.0028,93.1,92.3,0.4,Flat,0,0,Fair,Moderate,0
+Buddhagaya Mawatha,secondary,10,8.309303,80.408688,8.308129,80.407333,199.4,98.25,2,50,asphalt,1,1.0083,91.3,92.5,0.6,Flat,0,0,Fair,Moderate,1
+Abhayawewa Road,secondary,1,8.351394,80.398169,8.351384,80.396383,200.0,98.19,2,60,asphalt,0,1.017,93.7,93.4,0.15,Flat,0,0,Fair,Moderate,0
+Abhayawewa Road,secondary,2,8.351384,80.396383,8.351811,80.394654,200.0,295.26,2,60,concrete,0,1.0197,93.0,93.1,0.05,Flat,0,0,Fair,Moderate,0
+Abhayawewa Road,secondary,3,8.351811,80.394654,8.351852,80.394574,9.9,394.48,2,50,asphalt,0,1.0,86.9,88.1,12.12,Steep,0,1,Good,Moderate,0
+Sri Rewatha Mawatha,secondary,1,8.342517,80.396582,8.342752,80.397994,160.92,120.41,2,60,asphalt,0,1.0209,93.9,94.3,0.25,Flat,0,0,Fair,Moderate,0
+Freeman Mawatha,tertiary,1,8.324267,80.404017,8.323224,80.405501,200.0,581.19,2,40,asphalt,0,1.0,90.4,89.3,0.55,Flat,0,0,Fair,Moderate,0
+Freeman Mawatha,tertiary,2,8.323224,80.405501,8.322157,80.406968,200.0,604.56,2,50,concrete,0,1.0,93.1,94.4,0.65,Flat,0,0,Fair,Moderate,0
+Freeman Mawatha,tertiary,3,8.322157,80.406968,8.321068,80.408418,200.0,603.96,2,50,asphalt,1,1.0001,94.0,94.4,0.2,Flat,0,0,Fair,Moderate,1
+Freeman Mawatha,tertiary,4,8.321068,80.408418,8.319978,80.409868,200.0,667.93,2,40,asphalt,1,1.0,88.2,87.7,0.25,Flat,0,0,Good,Moderate,1
+Freeman Mawatha,tertiary,5,8.319978,80.409868,8.319485,80.410523,90.49,745.03,2,40,asphalt,0,1.0009,86.1,85.0,1.22,Flat,0,1,Good,Moderate,0
+swarnamali road,tertiary,1,8.355514,80.398963,8.353744,80.398591,200.0,237.81,2,40,asphalt,0,1.0003,87.3,88.2,0.45,Flat,0,1,Good,Moderate,0
+swarnamali road,tertiary,2,8.353744,80.398591,8.351966,80.39826,200.0,163.97,2,40,asphalt,0,1.0004,89.3,89.7,0.2,Flat,0,0,Good,Moderate,0
+swarnamali road,tertiary,3,8.351966,80.39826,8.351394,80.398169,64.13,32.01,2,50,asphalt,0,1.0016,93.2,93.3,0.16,Flat,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.34379,80.409518,8.344694,80.408008,200.0,93.59,2,60,asphalt,0,1.031,93.6,94.8,0.6,Flat,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,2,8.344694,80.408008,8.345203,80.407542,82.57,84.9,2,50,asphalt,0,1.0842,85.1,86.0,1.09,Flat,0,1,Good,Moderate,0
+K. B. Ratnayake Mawatha,trunk,1,8.309835,80.423091,8.311297,80.422085,200.0,98.61,2,60,asphalt,0,1.0206,90.1,89.1,0.5,Flat,1,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,2,8.311297,80.422085,8.313008,80.421497,200.0,293.4,2,60,asphalt,0,1.0003,89.2,88.6,0.3,Flat,0,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,3,8.313008,80.421497,8.314716,80.420899,200.0,491.57,2,60,asphalt,0,1.0001,87.2,86.4,0.4,Flat,1,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,4,8.314716,80.420899,8.316428,80.420313,200.0,690.75,2,60,asphalt,0,1.0001,86.2,86.9,0.35,Flat,0,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,5,8.316428,80.420313,8.318152,80.419782,200.0,890.24,2,60,asphalt,0,1.0032,88.4,87.0,0.7,Flat,1,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,6,8.318152,80.419782,8.319902,80.419483,200.0,1084.17,2,70,asphalt,0,1.0191,94.4,94.6,0.1,Flat,0,0,Fair,High,0
+K. B. Ratnayake Mawatha,trunk,7,8.319902,80.419483,8.32136,80.418408,200.0,1112.15,2,60,asphalt,0,1.0,88.2,89.0,0.4,Flat,0,1,Good,High,0
+K. B. Ratnayake Mawatha,trunk,8,8.32136,80.418408,8.322404,80.416938,200.0,918.74,2,60,asphalt,1,1.006,90.2,91.3,0.55,Flat,0,1,Good,High,1
+K. B. Ratnayake Mawatha,trunk,9,8.322404,80.416938,8.323316,80.415369,200.0,719.13,2,70,asphalt,1,1.0,92.0,91.5,0.25,Flat,0,1,Good,High,1
+K. B. Ratnayake Mawatha,trunk,10,8.323316,80.415369,8.324067,80.414093,163.21,537.88,2,60,asphalt,0,1.0,88.6,89.6,0.61,Flat,0,1,Good,High,0
+New Kandy Road (Nidahas Mawatha),primary,14,8.312342,80.428636,8.311599,80.426981,200.0,570.7,2,70,asphalt,0,1.0005,94.7,93.5,0.6,Flat,1,0,Fair,High,0
+New Kandy Road (Nidahas Mawatha),primary,15,8.311599,80.426981,8.310837,80.425333,200.0,370.72,2,70,asphalt,0,1.0,94.6,95.6,0.5,Flat,0,0,Fair,High,0
+New Kandy Road (Nidahas Mawatha),primary,16,8.310837,80.425333,8.310089,80.42368,200.0,170.73,2,60,asphalt,0,1.0003,87.5,86.4,0.55,Flat,1,1,Good,High,0
+New Kandy Road (Nidahas Mawatha),primary,17,8.310089,80.42368,8.309835,80.423091,70.82,35.36,2,60,asphalt,0,1.002,90.0,89.7,0.42,Flat,0,1,Good,High,0
+Harischandra Mawatha,primary,1,8.324234,80.414058,8.325703,80.415114,200.0,458.32,2,60,asphalt,2,1.0013,88.0,88.9,0.45,Flat,0,1,Good,High,1
+Harischandra Mawatha,primary,2,8.325703,80.415114,8.327166,80.416183,200.0,543.84,2,60,asphalt,0,1.0,87.8,86.7,0.55,Flat,1,1,Good,High,0
+Harischandra Mawatha,primary,3,8.327166,80.416183,8.328792,80.416928,200.0,666.73,2,60,asphalt,1,1.0121,85.4,84.6,0.4,Flat,1,1,Good,High,1
+Harischandra Mawatha,primary,4,8.328792,80.416928,8.330583,80.416894,200.0,562.43,2,60,asphalt,0,1.0099,91.1,91.8,0.35,Flat,0,1,Good,High,0
+Harischandra Mawatha,primary,5,8.330583,80.416894,8.331251,80.416678,77.65,445.18,2,60,asphalt,0,1.0008,90.0,90.7,0.9,Flat,0,1,Good,High,0
+D. S. Senanayake Mawatha,secondary,1,8.308129,80.407333,8.306933,80.408696,200.0,100.03,2,50,asphalt,0,1.0,85.5,85.9,0.2,Flat,0,1,Good,Moderate,0
+D. S. Senanayake Mawatha,secondary,2,8.306933,80.408696,8.306244,80.409471,114.41,257.23,2,50,asphalt,0,1.0001,87.8,88.4,0.52,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,1,8.299317,80.413225,8.301121,80.413331,200.0,1092.58,2,50,asphalt,1,1.0011,94.1,94.2,0.05,Flat,0,0,Poor,Moderate,1
+Unknown,tertiary,2,8.301121,80.413331,8.302904,80.413633,200.0,955.88,2,40,asphalt,0,1.0004,87.4,86.7,0.35,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,3,8.302904,80.413633,8.304692,80.413858,200.0,856.67,2,40,asphalt,0,1.0039,86.4,85.9,0.25,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,4,8.304692,80.413858,8.305045,80.413858,38.97,803.91,2,40,asphalt,0,1.0,89.9,88.9,2.57,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,1,8.305045,80.413858,8.305105,80.412044,200.0,705.38,2,50,asphalt,0,1.0006,94.9,96.1,0.6,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,2,8.305105,80.412044,8.305353,80.410247,200.0,529.51,2,40,asphalt,0,1.0011,87.4,87.7,0.15,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,3,8.305353,80.410247,8.305761,80.408993,147.22,382.74,2,50,gravel,0,1.0134,91.7,91.4,0.2,Flat,0,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,1,8.296537,80.37572,8.296335,80.377489,200.0,2736.32,2,50,asphalt,1,1.02,92.6,92.5,0.05,Flat,0,0,Fair,Moderate,1
+Nachchaduwa road,tertiary,2,8.296335,80.377489,8.295699,80.378893,200.0,2718.88,2,40,concrete,0,1.1775,87.4,88.7,0.65,Flat,0,1,Good,Moderate,0
+Nachchaduwa road,tertiary,3,8.295699,80.378893,8.293922,80.379138,200.0,2868.42,2,50,asphalt,0,1.0085,92.3,91.3,0.5,Flat,0,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,4,8.293922,80.379138,8.292346,80.379976,200.0,3052.2,2,40,asphalt,0,1.0143,88.7,89.0,0.15,Flat,0,0,Good,Moderate,0
+Nachchaduwa road,tertiary,5,8.292346,80.379976,8.291102,80.381294,200.0,3198.54,2,50,concrete,0,1.0002,91.3,91.3,0.0,Flat,0,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,6,8.291102,80.381294,8.289941,80.382685,200.0,3332.31,2,50,asphalt,0,1.0007,91.3,91.6,0.15,Flat,0,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,7,8.289941,80.382685,8.288862,80.384139,200.0,3349.99,2,40,asphalt,0,1.0016,90.4,89.0,0.7,Flat,1,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,8,8.288862,80.384139,8.287606,80.385446,200.0,3315.17,2,40,asphalt,0,1.0,85.9,87.0,0.55,Flat,0,1,Good,Moderate,0
+Nachchaduwa road,tertiary,9,8.287606,80.385446,8.286323,80.386726,200.0,3309.01,2,50,asphalt,0,1.0001,93.4,94.7,0.65,Flat,0,0,Fair,Moderate,0
+Nachchaduwa road,tertiary,10,8.286323,80.386726,8.285684,80.387365,99.77,3312.82,2,40,gravel,0,1.0005,88.2,88.4,0.2,Flat,0,0,Good,Moderate,0
+Maithripala Senanayake Mawatha (Main Street),primary,1,8.328353,80.407314,8.326922,80.406204,200.0,99.96,2,60,asphalt,0,1.0004,86.9,87.5,0.3,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),primary,2,8.326922,80.406204,8.325513,80.405066,200.0,299.86,2,60,asphalt,1,1.0004,85.4,86.7,0.65,Flat,0,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,3,8.325513,80.405066,8.324123,80.403905,200.0,499.77,2,60,asphalt,1,1.0005,90.9,91.5,0.3,Flat,0,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,4,8.324123,80.403905,8.322697,80.402787,200.0,699.73,2,60,asphalt,1,1.0,91.8,90.8,0.5,Flat,1,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,5,8.322697,80.402787,8.321405,80.401519,200.0,637.75,2,60,asphalt,1,1.0013,85.2,85.4,0.1,Flat,0,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,6,8.321405,80.401519,8.320783,80.400668,116.66,479.94,2,60,asphalt,1,1.0037,90.1,90.4,0.26,Flat,0,1,Good,High,1
+Bulankulama Disawa Mawatha,secondary,1,8.311438,80.403644,8.312667,80.404976,200.0,546.36,2,50,asphalt,0,1.0003,87.3,87.1,0.1,Flat,0,1,Good,Moderate,0
+Bulankulama Disawa Mawatha,secondary,2,8.312667,80.404976,8.313981,80.406224,200.0,604.26,2,50,concrete,0,1.0001,91.5,92.2,0.35,Flat,0,0,Fair,Moderate,0
+Bulankulama Disawa Mawatha,secondary,3,8.313981,80.406224,8.315398,80.40735,200.0,727.88,2,50,asphalt,0,1.001,86.7,88.0,0.65,Flat,0,1,Good,Moderate,0
+Bulankulama Disawa Mawatha,secondary,4,8.315398,80.40735,8.316814,80.408481,200.0,884.3,2,50,asphalt,0,1.0,91.9,93.2,0.65,Flat,0,0,Fair,Moderate,0
+Bulankulama Disawa Mawatha,secondary,5,8.316814,80.408481,8.318228,80.409613,200.0,997.69,2,50,concrete,0,1.0003,88.9,88.8,0.05,Flat,0,1,Good,Moderate,0
+Bulankulama Disawa Mawatha,secondary,6,8.318228,80.409613,8.319413,80.410532,165.53,846.47,2,60,asphalt,1,1.0,94.4,93.2,0.72,Flat,1,0,Poor,Moderate,1
+Jayanthi Mawatha,trunk,1,8.320561,80.39038,8.320798,80.38858,200.0,378.48,2,60,asphalt,0,1.0003,86.4,87.9,0.75,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,2,8.320798,80.38858,8.320953,80.386772,200.0,578.35,2,60,asphalt,1,1.0009,88.4,89.4,0.5,Flat,0,1,Good,High,1
+Jayanthi Mawatha,trunk,3,8.320953,80.386772,8.321041,80.384958,200.0,389.5,2,60,asphalt,0,1.0001,86.1,85.0,0.55,Flat,1,1,Good,High,0
+Jayanthi Mawatha,trunk,4,8.321041,80.384958,8.321156,80.383146,200.0,189.52,2,70,asphalt,0,1.0003,94.2,95.5,0.65,Flat,0,0,Fair,High,0
+Jayanthi Mawatha,trunk,5,8.321156,80.383146,8.32122,80.382335,89.5,44.79,2,70,asphalt,0,1.0,93.8,94.9,1.23,Flat,0,1,Fair,High,0
+Jayanthi Mawatha,trunk,1,8.32044,80.391193,8.320561,80.39038,90.59,233.34,2,60,asphalt,0,1.0008,87.6,87.7,0.11,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,1,8.34314,80.406869,8.343439,80.405077,200.0,303.84,2,60,asphalt,0,1.0,91.6,91.9,0.15,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,2,8.343439,80.405077,8.343693,80.40362,162.88,139.62,2,70,asphalt,0,1.0001,93.2,92.9,0.18,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,1,8.342979,80.407713,8.34314,80.406869,94.61,196.27,2,60,asphalt,0,1.0,90.6,89.3,1.37,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,primary,1,8.333191,80.400948,8.333486,80.400624,48.39,238.02,2,60,asphalt,0,1.0011,90.3,89.8,1.03,Flat,0,1,Good,High,0
+Bandaranaike Mawatha,primary,1,8.334313,80.398218,8.33436,80.398063,17.9,57.7,2,60,asphalt,0,1.0033,87.4,88.3,5.03,Mild Grade,0,1,Good,High,0
+Bandaranaike Mawatha,primary,1,8.333486,80.400624,8.33413,80.398935,200.0,247.75,2,60,asphalt,0,1.0043,85.9,84.4,0.75,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,primary,2,8.33413,80.398935,8.334313,80.398218,81.4,107.31,2,70,asphalt,0,1.0,94.0,93.5,0.61,Flat,0,1,Fair,High,0
+Old Trincomalee Road,secondary,1,8.352174,80.409295,8.353243,80.410761,200.0,225.16,2,60,asphalt,0,1.0,94.0,93.7,0.15,Flat,0,0,Poor,Moderate,0
+Old Trincomalee Road,secondary,2,8.353243,80.410761,8.35404,80.412379,200.0,424.02,2,50,asphalt,0,1.0063,91.3,91.4,0.05,Flat,0,0,Fair,Moderate,0
+Old Trincomalee Road,secondary,3,8.35404,80.412379,8.354751,80.414048,200.0,327.12,2,50,asphalt,0,1.0006,88.4,89.7,0.65,Flat,0,1,Good,Moderate,0
+Old Trincomalee Road,secondary,4,8.354751,80.414048,8.355047,80.414788,87.76,183.38,2,50,asphalt,0,1.0,88.5,88.0,0.57,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,1,8.35741,80.405222,8.357555,80.405217,16.0,244.78,2,50,asphalt,0,1.0,92.3,91.8,3.12,Mild Grade,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,1,8.355695,80.3969,8.3553,80.39538,200.0,89.13,2,60,asphalt,0,1.1563,94.0,94.7,0.35,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,2,8.3553,80.39538,8.353594,80.394962,200.0,237.71,2,60,asphalt,0,1.0301,93.9,93.8,0.05,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,3,8.353594,80.394962,8.351871,80.394579,200.0,404.55,2,50,asphalt,0,1.0251,92.8,92.0,0.4,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,4,8.351871,80.394579,8.350326,80.39366,200.0,442.86,2,50,asphalt,0,1.0074,91.4,91.3,0.05,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,5,8.350326,80.39366,8.348618,80.39377,200.0,459.74,2,50,asphalt,0,1.0569,85.8,84.7,0.55,Flat,1,1,Good,Moderate,0
+Thuparamaya Mawatha,secondary,6,8.348618,80.39377,8.346892,80.393229,200.0,266.95,2,50,asphalt,0,1.0005,86.6,85.6,0.5,Flat,0,1,Good,Moderate,0
+Thuparamaya Mawatha,secondary,7,8.346892,80.393229,8.34547,80.392379,200.0,88.63,2,60,asphalt,0,1.0931,94.0,94.0,0.0,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,8,8.34547,80.392379,8.344699,80.391734,119.87,117.34,2,50,asphalt,0,1.0804,91.1,90.9,0.17,Flat,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.347656,80.402202,8.347741,80.402415,25.28,441.12,2,50,asphalt,0,1.0006,85.1,86.3,4.75,Mild Grade,0,1,Good,Moderate,0
+Old Trincomalee Road,secondary,1,8.351606,80.408532,8.352174,80.409295,104.94,72.71,2,50,asphalt,0,1.0005,86.0,85.6,0.38,Flat,0,1,Good,Moderate,0
+Thuparamaya Mawatha,secondary,1,8.35536,80.404668,8.35537,80.404437,25.4,49.92,2,50,asphalt,0,1.0,91.6,91.8,0.79,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,1,8.357555,80.405217,8.359338,80.404923,200.0,350.24,2,50,asphalt,0,1.0012,85.1,85.5,0.2,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.359338,80.404923,8.361125,80.404648,200.0,548.15,2,50,asphalt,0,1.0006,86.6,85.1,0.75,Flat,1,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,3,8.361125,80.404648,8.362911,80.40438,200.0,747.03,2,50,asphalt,0,1.0017,90.5,91.0,0.25,Flat,0,1,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,4,8.362911,80.40438,8.364691,80.404094,200.0,826.53,2,50,asphalt,0,1.0035,91.9,90.9,0.5,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,5,8.364691,80.404094,8.366395,80.403491,200.0,634.18,2,50,asphalt,0,1.0013,91.5,92.9,0.7,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,6,8.366395,80.403491,8.36818,80.403583,200.0,462.98,2,50,asphalt,0,1.0121,87.2,86.1,0.55,Flat,1,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,7,8.36818,80.403583,8.369655,80.402548,200.0,300.9,2,50,asphalt,0,1.0053,92.1,91.8,0.15,Flat,0,0,Fair,Moderate,0
+Sri Maha Bodhi Circular Road,tertiary,1,8.344117,80.396606,8.345527,80.397227,200.0,104.21,2,40,concrete,0,1.1749,87.4,86.2,0.6,Flat,0,1,Good,Moderate,0
+Sri Maha Bodhi Circular Road,tertiary,2,8.345527,80.397227,8.345192,80.398977,200.0,224.86,2,40,asphalt,0,1.0193,88.3,89.8,0.75,Flat,0,0,Good,Moderate,0
+Sri Maha Bodhi Circular Road,tertiary,3,8.345192,80.398977,8.344005,80.398411,150.88,127.89,2,50,asphalt,0,1.0385,92.5,92.5,0.0,Flat,0,0,Fair,Moderate,0
+Sri Maha Bodhi Access Road,tertiary,1,8.344041,80.396599,8.343331,80.396523,78.93,39.44,2,50,gravel,0,1.0,91.5,91.8,0.38,Flat,0,0,Fair,Moderate,0
+Ayurveda Roundabout,trunk,1,8.326645,80.410505,8.326645,80.410505,92.7,31.66,2,70,asphalt,0,927000.0,93.5,92.2,1.4,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,trunk,1,8.328839,80.407291,8.329942,80.405878,200.0,99.26,2,60,asphalt,0,1.0117,91.6,92.3,0.35,Flat,0,1,Good,High,0
+Bandaranaike Mawatha,trunk,2,8.329942,80.405878,8.33093,80.40436,200.0,222.87,2,60,asphalt,0,1.0016,90.7,89.8,0.45,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,trunk,3,8.33093,80.40436,8.331577,80.403453,122.9,61.49,2,60,asphalt,0,1.0004,85.9,87.1,0.98,Flat,0,1,Good,High,0
+Bandaranaike Mawatha,trunk,1,8.324204,80.413878,8.32524,80.41239,200.0,328.48,2,60,asphalt,0,1.0004,88.7,87.8,0.45,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,trunk,2,8.32524,80.41239,8.326297,80.410916,200.0,128.52,2,60,asphalt,0,1.0,87.7,86.8,0.45,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,trunk,1,8.326964,80.409969,8.328009,80.408487,200.0,99.98,2,60,asphalt,0,1.0003,87.4,86.0,0.7,Flat,1,1,Good,High,0
+Bandaranaike Mawatha,trunk,2,8.328009,80.408487,8.328419,80.407902,78.8,39.43,2,70,asphalt,0,1.0004,94.7,94.6,0.13,Flat,0,0,Fair,High,0
+Bandaranaike Mawatha,primary,1,8.332173,80.402603,8.333114,80.401052,200.0,100.03,2,60,asphalt,0,1.0001,88.9,89.1,0.1,Flat,0,1,Good,High,0
+Bandaranaike Mawatha,primary,2,8.333114,80.401052,8.333191,80.400948,14.27,207.08,2,70,asphalt,0,1.0,93.9,92.6,9.11,Steep,1,1,Fair,High,0
+Hospital Roundabout,trunk,1,8.324105,80.414106,8.324105,80.414106,88.09,442.95,2,60,asphalt,0,880900.0,91.3,92.1,0.91,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.331535,80.402769,8.330215,80.401534,200.0,99.76,2,70,asphalt,0,1.0026,92.9,92.8,0.05,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,2,8.330215,80.401534,8.328869,80.400335,200.0,299.22,2,60,asphalt,0,1.0053,90.0,90.1,0.05,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,3,8.328869,80.400335,8.328228,80.399994,80.25,437.45,2,60,asphalt,0,1.0006,90.8,90.6,0.25,Flat,0,1,Good,High,0
+Buddha Jayanthi RB,trunk,1,8.331891,80.403133,8.331891,80.403133,87.13,47.81,2,60,asphalt,0,871300.0,89.9,89.6,0.34,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,1,8.333969,80.413877,8.335685,80.414441,200.0,116.41,2,60,asphalt,0,1.0019,87.0,87.2,0.1,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,2,8.335685,80.414441,8.336243,80.414532,62.5,247.17,2,70,asphalt,0,1.0,92.2,91.2,1.6,Flat,1,1,Good,High,0
+Harischandra Mawatha,primary,1,8.333899,80.413707,8.334543,80.412011,200.0,130.13,2,60,asphalt,0,1.0007,87.8,86.8,0.5,Flat,1,1,Good,High,0
+Harischandra Mawatha,primary,2,8.334543,80.412011,8.334885,80.411166,100.44,50.2,2,60,asphalt,0,1.0001,85.2,86.3,1.1,Flat,0,1,Good,High,0
+Sri Maha Bodhi Mawatha,primary,1,8.342742,80.409044,8.342979,80.407713,148.99,74.47,2,60,asphalt,0,1.0007,91.5,92.8,0.87,Flat,0,1,Good,High,0
+Bulankulama Disawa Mawatha,secondary,1,8.319496,80.410593,8.320883,80.411756,200.0,692.46,2,50,asphalt,0,1.0011,86.8,86.4,0.2,Flat,0,1,Good,Moderate,0
+Bulankulama Disawa Mawatha,secondary,2,8.320883,80.411756,8.322348,80.412812,200.0,565.03,2,60,asphalt,0,1.0031,94.4,93.7,0.35,Flat,0,0,Poor,Moderate,0
+Bulankulama Disawa Mawatha,secondary,3,8.322348,80.412812,8.323869,80.413796,200.0,467.18,2,60,concrete,0,1.0,94.5,94.9,0.2,Flat,0,0,Poor,Moderate,0
+Bulankulama Disawa Mawatha,secondary,4,8.323869,80.413796,8.324026,80.413897,20.68,442.78,2,60,asphalt,0,1.0031,94.1,93.8,1.45,Flat,0,0,Poor,Moderate,0
+Freeman Mawatha,tertiary,1,8.319423,80.410606,8.318324,80.412049,200.0,840.52,2,40,asphalt,0,1.0,88.7,87.3,0.7,Flat,1,0,Good,Moderate,0
+Freeman Mawatha,tertiary,2,8.318324,80.412049,8.317225,80.413492,200.0,985.77,2,40,asphalt,0,1.0,85.2,84.2,0.5,Flat,0,1,Good,Moderate,0
+Freeman Mawatha,tertiary,3,8.317225,80.413492,8.316489,80.414457,133.87,1120.01,2,50,concrete,0,1.0002,94.3,94.9,0.45,Flat,0,0,Poor,Moderate,0
+Freeman Mawatha Roundabout,secondary,1,8.319433,80.410612,8.319433,80.410612,35.6,773.82,2,50,asphalt,0,356000.0,89.3,89.8,1.4,Flat,0,1,Good,Moderate,0
+Bandaranaike Mawatha,primary,1,8.334734,80.397026,8.334492,80.39764,72.8,36.45,2,70,asphalt,0,1.0012,94.7,93.3,1.92,Flat,1,0,Fair,High,0
+Sri Saranankara Sangarakkitha Mawatha (Vessagiriya Road),primary,1,8.334655,80.396663,8.334633,80.394847,200.0,100.04,2,70,asphalt,0,1.0001,94.6,93.8,0.4,Flat,1,0,Fair,High,0
+Sri Saranankara Sangarakkitha Mawatha (Vessagiriya Road),primary,2,8.334633,80.394847,8.334616,80.393445,154.47,77.24,2,70,asphalt,0,1.0005,93.5,92.7,0.52,Flat,1,1,Fair,High,0
+Ellakkattuwa Road,primary,1,8.339253,80.397962,8.337507,80.39751,200.0,267.92,2,60,asphalt,0,1.0033,87.9,88.4,0.25,Flat,0,1,Good,High,0
+Ellakkattuwa Road,primary,2,8.337507,80.39751,8.335811,80.397266,200.0,212.01,2,60,asphalt,0,1.0558,88.9,87.5,0.7,Flat,1,1,Good,High,0
+Ellakkattuwa Road,primary,3,8.335811,80.397266,8.334885,80.396722,118.66,59.26,2,70,asphalt,0,1.0004,93.5,92.3,1.01,Flat,1,1,Fair,High,0
+Lankaramaya Road,secondary,1,8.364482,80.391144,8.364661,80.392909,200.0,651.69,2,50,asphalt,0,1.0239,88.2,89.1,0.45,Flat,0,1,Good,Moderate,0
+Lankaramaya Road,secondary,2,8.364661,80.392909,8.364219,80.394666,200.0,815.23,2,50,asphalt,0,1.0023,86.7,85.7,0.5,Flat,0,1,Good,Moderate,0
+Lankaramaya Road,secondary,3,8.364219,80.394666,8.364098,80.394943,33.39,925.77,2,50,asphalt,0,1.0026,90.6,91.1,1.5,Flat,0,1,Fair,Moderate,0
+Anula Mawatha,secondary,1,8.364098,80.394943,8.363463,80.395867,180.59,887.3,2,60,asphalt,0,1.461,94.4,93.6,0.44,Flat,0,0,Poor,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,1,8.341059,80.380274,8.341744,80.378647,200.0,1490.54,2,50,asphalt,0,1.0283,92.0,90.8,0.6,Flat,1,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.341744,80.378647,8.342884,80.377238,200.0,1629.17,2,50,asphalt,0,1.0005,90.7,89.9,0.4,Flat,0,1,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,3,8.342884,80.377238,8.344346,80.376194,200.0,1757.68,2,50,asphalt,0,1.0083,86.0,86.7,0.35,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,4,8.344346,80.376194,8.34599,80.375437,200.0,1582.69,2,50,asphalt,0,1.0002,91.2,92.3,0.55,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,5,8.34599,80.375437,8.347617,80.374728,200.0,1385.71,2,60,asphalt,0,1.0199,94.9,95.9,0.5,Flat,0,0,Poor,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,6,8.347617,80.374728,8.348975,80.373546,200.0,1208.01,2,50,asphalt,0,1.0065,86.4,86.1,0.15,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,7,8.348975,80.373546,8.350604,80.37279,200.0,1032.2,2,50,asphalt,0,1.008,90.2,90.7,0.25,Flat,0,1,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,8,8.350604,80.37279,8.352379,80.372442,200.0,838.45,2,60,asphalt,0,1.0003,93.8,92.9,0.45,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,9,8.352379,80.372442,8.354174,80.372229,200.0,640.97,2,50,asphalt,0,1.0008,92.4,91.8,0.3,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,10,8.354174,80.372229,8.355982,80.372217,200.0,442.0,2,50,asphalt,0,1.0005,92.0,93.2,0.6,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,11,8.355982,80.372217,8.357788,80.372328,200.0,242.12,2,50,asphalt,0,1.0,92.0,90.5,0.75,Flat,1,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,12,8.357788,80.372328,8.359071,80.372398,142.13,71.07,2,50,asphalt,1,1.0005,88.6,87.4,0.84,Flat,1,1,Good,Moderate,1
+Unknown,tertiary,1,8.346895,80.383345,8.347336,80.381592,200.0,1159.68,2,40,asphalt,0,1.0046,87.9,87.0,0.45,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,2,8.347336,80.381592,8.348327,80.380088,200.0,1355.44,2,50,concrete,0,1.0072,93.1,91.7,0.7,Flat,1,0,Fair,Moderate,0
+Unknown,tertiary,3,8.348327,80.380088,8.349584,80.37881,200.0,1359.88,2,50,asphalt,1,1.0112,93.1,92.1,0.5,Flat,0,0,Fair,Moderate,1
+Unknown,tertiary,4,8.349584,80.37881,8.350674,80.377382,200.0,1168.26,2,50,asphalt,0,1.0096,93.7,93.9,0.1,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,5,8.350674,80.377382,8.351721,80.375903,200.0,987.25,2,50,concrete,0,1.001,94.1,93.9,0.1,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,6,8.351721,80.375903,8.353113,80.375493,200.0,815.64,2,40,concrete,0,1.247,90.1,91.3,0.6,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,7,8.353113,80.375493,8.354746,80.376256,200.0,680.53,2,40,asphalt,0,1.0043,90.0,91.0,0.5,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,8,8.354746,80.376256,8.356332,80.377103,200.0,598.57,2,50,asphalt,0,1.007,93.0,92.5,0.25,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,9,8.356332,80.377103,8.357457,80.37597,200.0,509.28,2,50,asphalt,0,1.1353,91.5,90.8,0.35,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,10,8.357457,80.37597,8.358325,80.374377,200.0,313.01,2,50,asphalt,0,1.0003,92.0,91.6,0.2,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,11,8.358325,80.374377,8.359163,80.37277,200.0,113.1,2,50,asphalt,0,1.0013,93.0,93.3,0.15,Flat,0,0,Fair,Moderate,0
+Bulankulama Tank Road,secondary,1,8.3617,80.393657,8.361683,80.391867,200.0,796.81,2,60,asphalt,0,1.0147,93.9,93.2,0.35,Flat,0,0,Fair,Moderate,0
+Bulankulama Tank Road,secondary,2,8.361683,80.391867,8.36295,80.390746,200.0,817.2,2,50,concrete,0,1.0712,88.4,88.8,0.2,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,3,8.36295,80.390746,8.363293,80.389215,200.0,659.89,2,50,asphalt,0,1.1575,88.8,88.5,0.15,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,4,8.363293,80.389215,8.363727,80.387455,200.0,591.31,2,50,asphalt,0,1.0018,85.9,86.1,0.1,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,5,8.363727,80.387455,8.363401,80.385831,200.0,607.02,2,50,asphalt,0,1.0964,90.8,90.6,0.1,Flat,0,1,Fair,Moderate,0
+Bulankulama Tank Road,secondary,6,8.363401,80.385831,8.36516,80.385714,200.0,559.91,2,50,concrete,0,1.0262,85.4,84.8,0.3,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,7,8.36516,80.385714,8.366959,80.385847,200.0,381.04,2,50,asphalt,0,1.0028,89.7,91.0,0.65,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,8,8.366959,80.385847,8.368757,80.385648,200.0,255.17,2,50,asphalt,0,1.0,90.4,91.2,0.4,Flat,0,1,Fair,Moderate,0
+Bulankulama Tank Road,secondary,9,8.368757,80.385648,8.369569,80.385561,90.26,248.65,2,50,asphalt,0,1.0,87.9,86.8,1.22,Flat,1,1,Good,Moderate,0
+Puttalam Road,trunk,1,8.325347,80.368655,8.324859,80.370404,200.0,819.87,2,60,asphalt,0,1.0,90.9,92.0,0.55,Flat,0,1,Good,High,0
+Puttalam Road,trunk,2,8.324859,80.370404,8.324297,80.372127,200.0,1019.72,2,60,asphalt,0,1.0018,85.3,85.3,0.0,Flat,0,1,Good,High,0
+Puttalam Road,trunk,3,8.324297,80.372127,8.323615,80.373809,200.0,970.33,2,60,asphalt,0,1.0001,85.4,86.6,0.6,Flat,0,1,Good,High,0
+Puttalam Road,trunk,4,8.323615,80.373809,8.322929,80.375489,200.0,770.69,2,70,asphalt,0,1.0003,93.2,94.1,0.45,Flat,0,1,Good,High,0
+Puttalam Road,trunk,5,8.322929,80.375489,8.322341,80.377206,200.0,570.91,2,60,asphalt,1,1.0003,88.6,88.4,0.1,Flat,0,1,Good,High,1
+Puttalam Road,trunk,6,8.322341,80.377206,8.321764,80.378927,200.0,370.98,2,60,asphalt,0,1.0002,86.3,84.9,0.7,Flat,1,1,Good,High,0
+Puttalam Road,trunk,7,8.321764,80.378927,8.321324,80.380254,154.08,193.98,2,60,asphalt,0,1.0005,90.2,89.5,0.45,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,1,8.292176,80.372144,8.292326,80.372231,19.17,3295.79,2,70,asphalt,0,1.0009,92.7,92.8,0.52,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,1,8.292326,80.372231,8.293719,80.373389,200.0,3193.56,2,60,asphalt,0,1.0002,87.2,87.6,0.2,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,2,8.293719,80.373389,8.295107,80.374554,200.0,3010.43,2,60,asphalt,0,1.0,91.2,90.5,0.35,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,3,8.295107,80.374554,8.29651,80.375699,200.0,2829.1,2,60,asphalt,1,1.0005,85.9,84.8,0.55,Flat,1,1,Good,High,1
+Padeniya-Anuradhapura Road,trunk,4,8.29651,80.375699,8.298206,80.376246,200.0,2641.78,2,60,asphalt,1,1.0155,85.5,86.5,0.5,Flat,0,1,Good,High,1
+Padeniya-Anuradhapura Road,trunk,5,8.298206,80.376246,8.299985,80.376573,200.0,2442.55,2,60,asphalt,0,1.0002,90.3,91.8,0.75,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,6,8.299985,80.376573,8.301768,80.376876,200.0,2242.8,2,60,asphalt,0,1.0003,90.4,90.5,0.05,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,7,8.301768,80.376876,8.30355,80.377189,200.0,2043.21,2,60,asphalt,0,1.0,91.4,90.4,0.5,Flat,1,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,8,8.30355,80.377189,8.305325,80.377539,200.0,1843.47,2,70,asphalt,0,1.0,92.3,91.6,0.35,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,9,8.305325,80.377539,8.307109,80.377498,200.0,1646.13,2,70,asphalt,2,1.0137,94.8,93.4,0.7,Flat,1,0,Fair,High,1
+Padeniya-Anuradhapura Road,trunk,10,8.307109,80.377498,8.308723,80.376757,200.0,1473.1,2,60,asphalt,0,1.0193,90.2,91.4,0.6,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,11,8.308723,80.376757,8.31028,80.375848,200.0,1353.3,2,60,asphalt,1,1.0044,88.2,87.1,0.55,Flat,1,1,Good,High,1
+Padeniya-Anuradhapura Road,trunk,12,8.31028,80.375848,8.311998,80.375499,200.0,1229.31,2,70,asphalt,0,1.032,93.0,93.2,0.1,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,13,8.311998,80.375499,8.313734,80.375984,200.0,1057.8,2,60,asphalt,0,1.0039,87.7,87.0,0.35,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,14,8.313734,80.375984,8.315438,80.376593,200.0,868.68,2,60,asphalt,1,1.0001,89.4,89.6,0.1,Flat,0,1,Good,High,1
+Padeniya-Anuradhapura Road,trunk,15,8.315438,80.376593,8.316865,80.377677,200.0,677.99,2,60,asphalt,0,1.0109,85.8,86.3,0.25,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,16,8.316865,80.377677,8.318175,80.37893,200.0,478.49,2,60,asphalt,0,1.0,85.3,86.3,0.5,Flat,0,1,Good,High,0
+Padeniya-Anuradhapura Road,trunk,17,8.318175,80.37893,8.319465,80.380203,200.0,278.53,2,70,asphalt,0,1.0001,94.6,93.7,0.45,Flat,1,0,Fair,High,0
+Padeniya-Anuradhapura Road,trunk,18,8.319465,80.380203,8.320641,80.381315,178.64,89.26,2,70,asphalt,0,1.0002,93.4,91.9,0.84,Flat,1,1,Good,High,0
+Unknown,tertiary,1,8.285684,80.387365,8.285648,80.387404,5.81,3315.61,2,50,asphalt,0,1.0,92.0,90.9,18.93,Steep,0,0,Fair,Moderate,0
+Unknown,tertiary,1,8.285648,80.387404,8.284385,80.388703,200.0,3323.02,2,40,asphalt,0,1.0005,89.1,90.3,0.6,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,2,8.284385,80.388703,8.28329,80.390148,200.0,3332.68,2,40,concrete,0,1.0003,86.7,87.8,0.55,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,3,8.28329,80.390148,8.281806,80.391165,200.0,3369.87,2,40,gravel,0,1.0068,86.6,86.9,0.15,Flat,0,1,Good,Moderate,0
+Jayanthi Mawatha,trunk,1,8.328228,80.399994,8.328145,80.399951,10.39,481.59,2,60,asphalt,0,1.0062,87.5,87.8,2.89,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.328145,80.399951,8.326529,80.399133,200.0,584.43,2,60,asphalt,1,1.0,90.5,91.0,0.25,Flat,0,1,Good,High,1
+Jayanthi Mawatha,trunk,2,8.326529,80.399133,8.324978,80.398202,200.0,622.03,2,70,asphalt,0,1.0011,92.1,91.1,0.5,Flat,1,1,Good,High,0
+Jayanthi Mawatha,trunk,3,8.324978,80.398202,8.323588,80.397042,200.0,423.01,2,60,asphalt,0,1.0008,91.6,92.8,0.6,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,4,8.323588,80.397042,8.322197,80.395881,200.0,223.04,2,60,asphalt,0,1.0001,87.8,87.6,0.1,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,5,8.322197,80.395881,8.321369,80.395134,123.1,61.56,2,70,asphalt,0,1.0002,94.5,94.1,0.32,Flat,0,0,Fair,High,0
+Kurunegala Road,primary,1,8.32152,80.382205,8.322827,80.383462,200.0,99.97,2,70,asphalt,0,1.0,92.4,92.5,0.05,Flat,0,1,Good,High,0
+Kurunegala Road,primary,2,8.322827,80.383462,8.324135,80.384716,200.0,299.96,2,60,asphalt,0,1.0002,90.5,89.1,0.7,Flat,1,1,Good,High,0
+Kurunegala Road,primary,3,8.324135,80.384716,8.325421,80.385993,200.0,499.95,2,60,asphalt,0,1.0001,91.1,90.1,0.5,Flat,1,1,Good,High,0
+Kurunegala Road,primary,4,8.325421,80.385993,8.32672,80.387256,200.0,699.88,2,60,asphalt,0,1.0004,89.2,89.9,0.35,Flat,0,1,Good,High,0
+Kurunegala Road,primary,5,8.32672,80.387256,8.327422,80.388232,135.64,866.84,2,60,asphalt,0,1.0232,87.5,86.2,0.96,Flat,1,1,Good,High,0
+Unknown,tertiary,1,8.296736,80.427679,8.295069,80.428332,200.0,1633.19,2,40,asphalt,0,1.011,88.6,88.9,0.15,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,2,8.295069,80.428332,8.293332,80.427835,200.0,1815.43,2,50,asphalt,0,1.0016,92.6,91.8,0.4,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,3,8.293332,80.427835,8.291668,80.427123,200.0,1976.33,2,40,gravel,0,1.0001,85.1,84.8,0.15,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,4,8.291668,80.427123,8.289946,80.427408,200.0,2152.03,2,40,concrete,0,1.0365,86.2,85.6,0.3,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,5,8.289946,80.427408,8.288308,80.4281,200.0,2345.65,2,40,asphalt,0,1.0179,85.5,85.1,0.2,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,6,8.288308,80.4281,8.286518,80.428362,200.0,2542.7,2,40,asphalt,0,1.0,85.4,86.1,0.35,Flat,0,1,Good,Moderate,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,15,8.307921,80.32848,8.30894,80.32998,200.0,3927.06,2,70,asphalt,0,1.0003,93.6,93.0,0.3,Flat,0,1,Fair,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,16,8.30894,80.32998,8.310086,80.331373,200.0,3727.91,2,70,asphalt,1,1.0052,92.0,92.2,0.1,Flat,0,1,Good,High,1
+Puttalam-Anuradhapura-Trincomalee Road,trunk,17,8.310086,80.331373,8.310712,80.332947,200.0,3535.27,2,60,asphalt,0,1.0716,89.7,89.6,0.05,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,18,8.310712,80.332947,8.311095,80.334672,200.0,3358.4,2,60,asphalt,0,1.0276,86.0,86.5,0.25,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,19,8.311095,80.334672,8.312071,80.3362,200.0,3162.31,2,60,asphalt,0,1.0005,89.9,91.2,0.65,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,20,8.312071,80.3362,8.313032,80.337739,200.0,2962.33,2,60,asphalt,0,1.0,89.7,90.4,0.35,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,21,8.313032,80.337739,8.314011,80.339266,200.0,2762.34,2,60,asphalt,0,1.0001,86.7,85.8,0.45,Flat,1,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,22,8.314011,80.339266,8.314988,80.340795,200.0,2562.36,2,60,asphalt,0,1.0,89.3,87.9,0.7,Flat,1,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,23,8.314988,80.340795,8.315952,80.342331,200.0,2362.37,2,60,asphalt,0,1.0004,89.0,88.3,0.35,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,24,8.315952,80.342331,8.316917,80.343868,200.0,2162.37,2,60,asphalt,0,1.0,91.2,91.5,0.15,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,25,8.316917,80.343868,8.317878,80.345406,200.0,1962.37,2,60,asphalt,0,1.0003,91.4,90.1,0.65,Flat,1,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,26,8.317878,80.345406,8.318842,80.346943,200.0,1762.37,2,60,asphalt,0,1.0,85.5,85.5,0.0,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,27,8.318842,80.346943,8.31979,80.34849,200.0,1562.38,2,60,asphalt,0,1.0,88.7,89.0,0.15,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,28,8.31979,80.34849,8.320755,80.350026,200.0,1362.39,2,60,asphalt,0,1.0001,91.3,90.8,0.25,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,29,8.320755,80.350026,8.320906,80.350266,31.21,1246.79,2,60,asphalt,0,1.0,90.0,90.8,2.56,Flat,0,1,Good,High,0
+Railway Place,secondary,1,8.343955,80.410542,8.345081,80.409846,195.04,83.03,2,60,asphalt,0,1.3342,93.6,92.4,0.62,Flat,1,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,1,8.351505,80.408378,8.353109,80.407607,200.0,99.17,2,50,asphalt,0,1.0172,91.6,90.3,0.65,Flat,1,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.353109,80.407607,8.354304,80.406244,200.0,274.34,2,50,asphalt,0,1.0003,86.6,87.3,0.35,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,3,8.354304,80.406244,8.355279,80.404997,175.16,87.39,2,50,concrete,0,1.0034,85.7,85.7,0.0,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,1,8.355279,80.404997,8.353482,80.404846,200.0,99.91,2,50,gravel,0,1.0032,91.4,92.0,0.3,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,2,8.353482,80.404846,8.352745,80.404785,83.03,240.64,2,40,asphalt,0,1.0156,85.3,85.1,0.24,Flat,0,1,Good,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.347741,80.402415,8.347515,80.40391,190.39,448.46,2,50,asphalt,0,1.1435,90.9,90.1,0.42,Flat,0,1,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.347627,80.402123,8.347656,80.402202,9.2,438.46,2,60,concrete,0,1.0,94.4,95.4,10.87,Steep,0,0,Poor,Moderate,0
+Kurunegala Road,primary,1,8.3349,80.393251,8.336265,80.394428,200.0,99.75,2,60,asphalt,0,1.0054,90.8,91.7,0.45,Flat,0,1,Good,High,0
+Kurunegala Road,primary,2,8.336265,80.394428,8.337968,80.395035,200.0,191.86,2,60,asphalt,0,1.001,88.9,89.5,0.3,Flat,0,1,Good,High,0
+Kurunegala Road,primary,3,8.337968,80.395035,8.338757,80.395294,91.88,45.94,2,60,asphalt,0,1.0011,91.4,90.7,0.76,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,1,8.343331,80.396523,8.343735,80.394793,200.0,97.67,2,60,asphalt,0,1.0222,89.6,89.9,0.15,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,2,8.343735,80.394793,8.344214,80.39305,200.0,148.52,2,60,asphalt,0,1.0045,90.5,90.1,0.2,Flat,0,1,Good,High,0
+Mihindu Mawatha,primary,1,8.344304,80.392564,8.344588,80.391773,93.71,52.25,2,70,asphalt,0,1.0122,94.4,93.2,1.28,Flat,1,0,Fair,High,0
+Vilachchi Rd. (New Ellakkattuwa Rd),primary,1,8.334885,80.396722,8.336552,80.396054,200.0,98.84,2,60,asphalt,0,1.0079,88.9,90.2,0.65,Flat,0,1,Good,High,0
+Vilachchi Rd. (New Ellakkattuwa Rd),primary,2,8.336552,80.396054,8.338266,80.395474,200.0,157.8,2,70,asphalt,0,1.0001,94.6,93.5,0.55,Flat,1,0,Fair,High,0
+Old Puttalam Road,primary,1,8.34476,80.39198,8.345218,80.393175,141.06,70.47,2,70,asphalt,0,1.0005,94.1,95.5,0.99,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,1,8.365085,80.419512,8.366809,80.420062,200.0,1116.02,2,60,asphalt,0,1.0,87.0,86.8,0.1,Flat,0,1,Good,High,0
+Jaffna Road,trunk,2,8.366809,80.420062,8.368537,80.4206,200.0,1313.98,2,60,asphalt,0,1.0,85.7,84.8,0.45,Flat,1,1,Good,High,0
+Jaffna Road,trunk,3,8.368537,80.4206,8.370264,80.421141,200.0,1512.67,2,60,asphalt,0,1.0,86.0,86.1,0.05,Flat,0,1,Good,High,0
+Jaffna Road,trunk,4,8.370264,80.421141,8.371822,80.422052,200.0,1707.57,2,60,asphalt,1,1.0034,85.2,86.3,0.55,Flat,0,1,Good,High,1
+Jaffna Road,trunk,5,8.371822,80.422052,8.373325,80.42306,200.0,1895.77,2,60,asphalt,1,1.0009,85.9,86.6,0.35,Flat,0,1,Good,High,1
+Jaffna Road,trunk,6,8.373325,80.42306,8.374853,80.424033,200.0,2085.98,2,60,asphalt,0,1.0,91.8,92.7,0.45,Flat,0,1,Good,High,0
+Jaffna Road,trunk,7,8.374853,80.424033,8.376363,80.425032,200.0,2278.53,2,60,asphalt,0,1.0004,85.7,86.2,0.25,Flat,0,1,Good,High,0
+Jaffna Road,trunk,8,8.376363,80.425032,8.377873,80.426033,200.0,2471.23,2,60,asphalt,0,1.0,88.2,88.8,0.3,Flat,0,1,Good,High,0
+Jaffna Road,trunk,9,8.377873,80.426033,8.379415,80.426981,200.0,2666.05,2,70,asphalt,0,1.0005,93.4,94.4,0.5,Flat,0,1,Good,High,0
+Jaffna Road,trunk,10,8.379415,80.426981,8.380967,80.427914,200.0,2862.57,2,60,asphalt,0,1.0001,85.2,84.4,0.4,Flat,1,1,Good,High,0
+Jaffna Road,trunk,11,8.380967,80.427914,8.38246,80.428927,200.0,3059.14,2,70,asphalt,0,1.004,93.1,93.1,0.0,Flat,0,1,Good,High,0
+Jaffna Road,trunk,12,8.38246,80.428927,8.383641,80.430303,200.0,3244.63,2,60,asphalt,0,1.0,87.8,87.0,0.4,Flat,1,1,Good,High,0
+Jaffna Road,trunk,13,8.383641,80.430303,8.38481,80.43169,200.0,3424.24,2,60,asphalt,1,1.0,86.2,87.7,0.75,Flat,0,1,Good,High,1
+Jaffna Road,trunk,14,8.38481,80.43169,8.385979,80.433076,200.0,3600.56,2,60,asphalt,0,1.0001,92.0,93.3,0.65,Flat,0,1,Good,High,0
+Jaffna Road,trunk,15,8.385979,80.433076,8.38715,80.43446,200.0,3679.23,2,60,asphalt,1,1.0003,91.3,89.9,0.7,Flat,1,1,Good,High,1
+Jaffna Road,trunk,16,8.38715,80.43446,8.388322,80.435844,200.0,3766.92,2,70,asphalt,0,1.0,93.8,94.4,0.3,Flat,0,1,Fair,High,0
+Jaffna Road,trunk,17,8.388322,80.435844,8.389489,80.437232,200.0,3862.92,2,70,asphalt,0,1.0,92.4,93.7,0.65,Flat,0,1,Good,High,0
+Jaffna Road,trunk,18,8.389489,80.437232,8.390623,80.438647,200.0,3964.01,2,70,asphalt,0,1.0001,93.0,92.0,0.5,Flat,1,1,Good,High,0
+Jaffna Road,trunk,19,8.390623,80.438647,8.391794,80.440031,200.0,4073.11,2,60,asphalt,1,1.0003,87.8,88.0,0.1,Flat,0,1,Good,High,1
+Jaffna Road,trunk,20,8.391794,80.440031,8.392966,80.441415,200.0,4190.93,2,60,asphalt,0,1.0,86.8,88.0,0.6,Flat,0,1,Good,High,0
+Jaffna Road,trunk,21,8.392966,80.441415,8.394121,80.442814,200.0,4313.58,2,70,asphalt,0,1.0,92.5,91.1,0.7,Flat,1,1,Good,High,0
+Jaffna Road,trunk,22,8.394121,80.442814,8.395318,80.444176,200.0,4443.81,2,70,asphalt,0,1.0,93.1,93.7,0.3,Flat,0,1,Good,High,0
+Jaffna Road,trunk,23,8.395318,80.444176,8.396513,80.44554,200.0,4580.9,2,70,asphalt,0,1.0,94.9,94.3,0.3,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,24,8.396513,80.44554,8.397695,80.446915,200.0,4721.65,2,60,asphalt,0,1.0001,89.1,90.4,0.65,Flat,0,1,Good,High,0
+Jaffna Road,trunk,25,8.397695,80.446915,8.39888,80.448287,200.0,4866.28,2,60,asphalt,0,1.0002,88.7,90.1,0.7,Flat,0,1,Good,High,0
+Jaffna Road,trunk,26,8.39888,80.448287,8.400528,80.448674,200.0,5028.06,2,70,asphalt,0,1.0689,92.8,94.1,0.65,Flat,0,1,Good,High,0
+Jaffna Road,trunk,27,8.400528,80.448674,8.402337,80.448683,200.0,5225.33,2,60,asphalt,1,1.0,88.4,88.3,0.05,Flat,0,1,Good,High,1
+Jaffna Road,trunk,28,8.402337,80.448683,8.404146,80.448665,200.0,5423.7,2,70,asphalt,0,1.0,94.3,95.4,0.55,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,29,8.404146,80.448665,8.405955,80.448673,200.0,5622.31,2,70,asphalt,0,1.0,93.6,94.6,0.5,Flat,0,1,Fair,High,0
+Jaffna Road,trunk,30,8.405955,80.448673,8.407734,80.448838,200.0,5821.08,2,60,asphalt,0,1.0125,89.3,88.8,0.25,Flat,0,1,Good,High,0
+Jaffna Road,trunk,31,8.407734,80.448838,8.40908,80.45005,200.0,6001.45,2,70,asphalt,0,1.0006,92.5,93.5,0.5,Flat,0,1,Good,High,0
+Jaffna Road,trunk,32,8.40908,80.45005,8.40986,80.451572,200.0,6151.94,2,70,asphalt,0,1.0613,92.5,91.1,0.7,Flat,1,1,Good,High,0
+Jaffna Road,trunk,33,8.40986,80.451572,8.41001,80.453382,200.0,6216.87,2,60,asphalt,0,1.0002,86.0,86.3,0.15,Flat,0,1,Good,High,0
+Jaffna Road,trunk,34,8.41001,80.453382,8.410712,80.455023,200.0,6290.17,2,70,asphalt,0,1.0172,94.0,93.2,0.4,Flat,1,0,Fair,High,0
+Jaffna Road,trunk,35,8.410712,80.455023,8.411677,80.45656,200.0,6425.29,2,60,asphalt,0,1.0,90.1,89.0,0.55,Flat,1,1,Good,High,0
+Jaffna Road,trunk,36,8.411677,80.45656,8.412628,80.458105,200.0,6567.93,2,70,asphalt,0,1.0002,93.3,92.0,0.65,Flat,1,1,Good,High,0
+Jaffna Road,trunk,37,8.412628,80.458105,8.413602,80.459637,200.0,6713.52,2,60,asphalt,0,1.0,88.2,88.8,0.3,Flat,0,1,Good,High,0
+Jaffna Road,trunk,38,8.413602,80.459637,8.414577,80.461167,200.0,6863.18,2,70,asphalt,0,1.0001,94.0,93.5,0.25,Flat,0,1,Fair,High,0
+Jaffna Road,trunk,39,8.414577,80.461167,8.415552,80.462697,200.0,7015.34,2,60,asphalt,0,1.0001,88.9,89.6,0.35,Flat,0,1,Good,High,0
+Jaffna Road,trunk,40,8.415552,80.462697,8.416514,80.464235,200.0,7169.31,2,60,asphalt,0,1.0002,85.1,83.8,0.65,Flat,1,1,Good,High,0
+Jaffna Road,trunk,41,8.416514,80.464235,8.417477,80.465774,200.0,7325.02,2,70,asphalt,0,1.0,94.1,93.5,0.3,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,42,8.417477,80.465774,8.418439,80.467312,200.0,7482.82,2,60,asphalt,0,1.0003,85.9,86.0,0.05,Flat,0,1,Good,High,0
+Jaffna Road,trunk,43,8.418439,80.467312,8.419401,80.46885,200.0,7517.36,2,60,asphalt,0,1.0003,88.2,89.1,0.45,Flat,0,1,Good,High,0
+Jaffna Road,trunk,44,8.419401,80.46885,8.420363,80.470389,200.0,7543.3,2,70,asphalt,0,1.0,94.5,94.0,0.25,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,45,8.420363,80.470389,8.421307,80.471932,200.0,7574.41,2,70,asphalt,0,1.0032,94.5,94.9,0.2,Flat,0,0,Fair,High,0
+Jaffna Road,trunk,46,8.421307,80.471932,8.422219,80.473489,200.0,7603.69,2,60,asphalt,1,1.0057,90.7,91.9,0.6,Flat,0,1,Good,High,1
+Jaffna Road,trunk,47,8.422219,80.473489,8.423167,80.475036,200.0,7643.15,2,60,asphalt,0,1.0001,91.3,91.6,0.15,Flat,0,1,Good,High,0
+D. S. Senanayake Mawatha,primary,1,8.318018,80.397618,8.319236,80.396275,200.0,100.03,2,60,asphalt,3,1.0,89.5,88.7,0.4,Flat,1,1,Good,High,1
+D. S. Senanayake Mawatha,primary,2,8.319236,80.396275,8.320447,80.394927,200.0,111.48,2,60,asphalt,0,1.0005,87.9,86.5,0.7,Flat,1,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),primary,1,8.332066,80.409519,8.330468,80.408669,200.0,291.1,2,60,asphalt,2,1.0003,88.3,89.4,0.55,Flat,0,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,2,8.330468,80.408669,8.328981,80.407782,191.3,95.58,2,60,asphalt,0,1.0004,91.7,90.3,0.73,Flat,1,1,Good,High,0
+Outer Circular Road (Watawandana Road),secondary,1,8.363345,80.37585,8.364188,80.377378,200.0,645.27,2,50,asphalt,0,1.0399,92.5,93.6,0.55,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.364188,80.377378,8.365569,80.378547,200.0,836.42,2,50,asphalt,0,1.0015,92.9,93.0,0.05,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,3,8.365569,80.378547,8.366967,80.3797,200.0,1001.11,2,50,concrete,0,1.0,92.9,94.2,0.65,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,4,8.366967,80.3797,8.367603,80.38109,200.0,839.21,2,50,asphalt,0,1.1875,85.9,86.8,0.45,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,5,8.367603,80.38109,8.366597,80.382434,200.0,707.86,2,50,asphalt,0,1.0804,89.9,91.4,0.75,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,6,8.366597,80.382434,8.3672,80.384088,200.0,548.4,2,50,asphalt,0,1.0313,85.6,85.2,0.2,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,7,8.3672,80.384088,8.368348,80.385463,200.0,359.6,2,50,asphalt,0,1.0124,90.5,91.3,0.4,Flat,0,1,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,8,8.368348,80.385463,8.368611,80.387255,200.0,168.16,2,50,asphalt,0,1.0028,89.4,89.1,0.15,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,9,8.368611,80.387255,8.368852,80.387841,69.8,34.94,2,60,asphalt,0,1.0,93.9,93.8,0.14,Flat,0,0,Fair,Moderate,0
+Unknown,secondary,1,8.359467,80.372064,8.360405,80.370532,200.0,98.62,2,50,asphalt,0,1.01,88.5,88.9,0.2,Flat,0,1,Good,Moderate,0
+Unknown,secondary,2,8.360405,80.370532,8.361222,80.368912,200.0,297.83,2,50,asphalt,0,1.0003,86.2,87.3,0.55,Flat,0,1,Good,Moderate,0
+Unknown,secondary,3,8.361222,80.368912,8.362095,80.367322,200.0,497.54,2,50,asphalt,0,1.0004,86.4,87.9,0.75,Flat,0,1,Good,Moderate,0
+Unknown,secondary,4,8.362095,80.367322,8.362942,80.365718,200.0,697.44,2,50,asphalt,0,1.0005,92.6,93.4,0.4,Flat,0,0,Fair,Moderate,0
+Anuradhapura - Padeniya Road,trunk,1,8.244644,80.354882,8.246443,80.354856,200.0,8797.06,2,60,asphalt,0,1.0054,91.2,91.0,0.1,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,2,8.246443,80.354856,8.248237,80.354661,200.0,8616.38,2,60,asphalt,0,1.0025,86.0,85.8,0.1,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,3,8.248237,80.354661,8.249903,80.355307,200.0,8427.67,2,60,asphalt,1,1.0129,85.8,86.5,0.35,Flat,0,1,Good,High,1
+Anuradhapura - Padeniya Road,trunk,4,8.249903,80.355307,8.251493,80.356173,200.0,8229.91,2,70,asphalt,0,1.0,92.0,91.2,0.4,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,5,8.251493,80.356173,8.253095,80.357015,200.0,8031.85,2,60,asphalt,0,1.0004,85.7,84.5,0.6,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,6,8.253095,80.357015,8.254698,80.357858,200.0,7833.76,2,70,asphalt,0,1.0,93.2,92.8,0.2,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,7,8.254698,80.357858,8.256301,80.3587,200.0,7635.76,2,70,asphalt,0,1.0,92.1,91.5,0.3,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,8,8.256301,80.3587,8.257903,80.359542,200.0,7437.88,2,60,asphalt,0,1.0004,85.8,85.2,0.3,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,9,8.257903,80.359542,8.259455,80.360465,200.0,7240.51,2,60,asphalt,0,1.0028,85.8,85.0,0.4,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,10,8.259455,80.360465,8.260905,80.361551,200.0,7048.66,2,70,asphalt,0,1.0,94.9,93.5,0.7,Flat,1,0,Fair,High,0
+Anuradhapura - Padeniya Road,trunk,11,8.260905,80.361551,8.262327,80.362674,200.0,6859.53,2,60,asphalt,0,1.0,88.7,87.3,0.7,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,12,8.262327,80.362674,8.263733,80.363816,200.0,6673.09,2,60,asphalt,0,1.0002,88.7,90.2,0.75,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,13,8.263733,80.363816,8.265415,80.364404,200.0,6482.87,2,70,asphalt,0,1.0157,93.1,92.9,0.1,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,14,8.265415,80.364404,8.267162,80.364874,200.0,6283.5,2,70,asphalt,0,1.0002,94.5,94.2,0.15,Flat,0,0,Fair,High,0
+Anuradhapura - Padeniya Road,trunk,15,8.267162,80.364874,8.268921,80.365299,200.0,6083.77,2,70,asphalt,1,1.0,94.9,95.4,0.25,Flat,0,0,Fair,High,1
+Anuradhapura - Padeniya Road,trunk,16,8.268921,80.365299,8.27068,80.365724,200.0,5884.16,2,70,asphalt,0,1.0,92.5,91.7,0.4,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,17,8.27068,80.365724,8.272442,80.366134,200.0,5684.65,2,60,asphalt,0,1.0001,88.8,90.1,0.65,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,18,8.272442,80.366134,8.274205,80.366541,200.0,5485.23,2,60,asphalt,0,1.0,85.8,86.7,0.45,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,19,8.274205,80.366541,8.27598,80.366889,200.0,5286.23,2,70,asphalt,0,1.0002,92.8,91.6,0.6,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,20,8.27598,80.366889,8.277769,80.367137,200.0,5088.3,2,60,asphalt,0,1.0017,90.6,90.4,0.1,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,21,8.277769,80.367137,8.279534,80.367535,200.0,4890.99,2,60,asphalt,0,1.0,89.2,90.3,0.55,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,22,8.279534,80.367535,8.281294,80.367951,200.0,4691.88,2,70,asphalt,1,1.0005,94.1,95.4,0.65,Flat,0,0,Fair,High,1
+Anuradhapura - Padeniya Road,trunk,23,8.281294,80.367951,8.283042,80.368421,200.0,4492.52,2,60,asphalt,0,1.0,86.1,86.0,0.05,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,24,8.283042,80.368421,8.284804,80.368833,200.0,4293.3,2,60,asphalt,0,1.0,89.9,90.2,0.15,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,25,8.284804,80.368833,8.286545,80.369321,200.0,4094.11,2,60,asphalt,1,1.0008,85.1,84.1,0.5,Flat,1,1,Good,High,1
+Anuradhapura - Padeniya Road,trunk,26,8.286545,80.369321,8.288239,80.369942,200.0,3894.58,2,60,asphalt,0,1.0031,89.7,91.2,0.75,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,27,8.288239,80.369942,8.289865,80.370681,200.0,3695.75,2,60,asphalt,0,1.0135,85.6,84.8,0.4,Flat,1,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,28,8.289865,80.370681,8.291386,80.371662,200.0,3501.91,2,60,asphalt,0,1.0006,86.2,87.5,0.65,Flat,0,1,Good,High,0
+Anuradhapura - Padeniya Road,trunk,29,8.291386,80.371662,8.292176,80.372144,102.21,3354.87,2,60,asphalt,0,1.0,86.2,86.6,0.39,Flat,0,1,Good,High,0
+Outer Circular Road (Watawandana Road),secondary,1,8.355279,80.404997,8.357074,80.405223,200.0,99.98,2,50,asphalt,0,1.0,91.5,91.8,0.15,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.357074,80.405223,8.35741,80.405222,37.2,218.39,2,50,concrete,0,1.0014,92.5,92.5,0.0,Flat,0,0,Fair,Moderate,0
+Nivatthakachetiya Mawatha,trunk,1,8.348689,80.41223,8.349884,80.413549,200.0,546.21,2,60,asphalt,0,1.0187,90.8,90.0,0.4,Flat,1,1,Good,High,0
+Nivatthakachetiya Mawatha,trunk,2,8.349884,80.413549,8.350656,80.415183,200.0,600.88,2,70,asphalt,2,1.0043,94.6,93.6,0.5,Flat,1,0,Fair,High,1
+Nivatthakachetiya Mawatha,trunk,3,8.350656,80.415183,8.352001,80.416392,200.0,461.11,2,60,asphalt,0,1.0021,88.7,87.9,0.4,Flat,1,1,Good,High,0
+Nivatthakachetiya Mawatha,trunk,4,8.352001,80.416392,8.353519,80.417339,200.0,321.7,2,60,asphalt,0,1.0122,87.9,87.0,0.45,Flat,1,1,Good,High,0
+Nivatthakachetiya Mawatha,trunk,5,8.353519,80.417339,8.35524,80.417897,200.0,137.86,2,70,asphalt,0,1.0003,93.7,94.5,0.4,Flat,0,1,Fair,High,0
+Unknown,tertiary,21,8.24113,80.362999,8.24115,80.361357,200.0,8923.36,2,40,asphalt,0,1.1058,87.2,86.8,0.2,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,22,8.24115,80.361357,8.241118,80.359546,200.0,9026.31,2,50,asphalt,0,1.0025,94.6,93.3,0.65,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,23,8.241118,80.359546,8.242051,80.358214,200.0,9104.39,2,40,concrete,0,1.1152,85.1,86.5,0.7,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,24,8.242051,80.358214,8.243538,80.357368,200.0,8984.27,2,50,asphalt,0,1.0584,94.7,95.9,0.6,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,25,8.243538,80.357368,8.244184,80.355717,200.0,8910.77,2,40,asphalt,0,1.0237,85.4,86.7,0.65,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,26,8.244184,80.355717,8.244644,80.354882,105.76,8899.02,2,50,asphalt,0,1.0064,93.9,95.4,1.42,Flat,0,0,Fair,Moderate,0
+Kurunegala Road,primary,1,8.327422,80.388232,8.328743,80.389379,200.0,823.12,2,60,asphalt,0,1.0358,90.3,89.3,0.5,Flat,1,1,Good,High,0
+Kurunegala Road,primary,2,8.328743,80.389379,8.330426,80.390006,200.0,626.11,2,70,asphalt,0,1.0077,94.9,94.6,0.15,Flat,0,0,Fair,High,0
+Kurunegala Road,primary,3,8.330426,80.390006,8.330485,80.390059,8.77,526.63,2,60,asphalt,0,1.002,85.7,86.5,9.12,Steep,0,1,Good,High,0
+Kurunegala Road,primary,1,8.330485,80.390059,8.331895,80.391172,200.0,423.94,2,60,asphalt,0,1.0086,90.5,91.1,0.3,Flat,0,1,Good,High,0
+Kurunegala Road,primary,2,8.331895,80.391172,8.333403,80.392175,200.0,224.28,2,70,asphalt,0,1.0001,94.7,93.7,0.5,Flat,1,0,Fair,High,0
+Kurunegala Road,primary,3,8.333403,80.392175,8.334323,80.392824,124.34,62.14,2,60,asphalt,0,1.0002,90.2,91.1,0.72,Flat,0,1,Good,High,0
+Unknown,primary,1,8.34469,80.391691,8.34469,80.391691,45.62,104.8,2,60,asphalt,0,456200.0,91.3,90.5,1.75,Flat,1,1,Good,High,0
+Old Puttalam Road,primary,1,8.34476,80.39198,8.344683,80.391769,24.78,94.17,2,60,asphalt,0,1.0015,92.0,91.2,3.23,Mild Grade,1,1,Good,High,0
+Old Trincomalee Road,secondary,1,8.355479,80.415979,8.355659,80.416519,62.76,31.43,2,50,asphalt,0,1.001,89.5,89.6,0.16,Flat,0,1,Good,Moderate,0
+Anuradhapura Road,trunk,1,8.355725,80.416834,8.355883,80.41762,88.28,44.09,2,60,asphalt,0,1.0,91.3,91.6,0.34,Flat,0,1,Good,High,0
+Old Puttalam Road,primary,1,8.327259,80.360514,8.3276,80.361067,72.42,133.74,2,60,asphalt,0,1.0112,90.8,91.0,0.28,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),trunk,1,8.34144,80.411714,8.341071,80.411665,41.16,41.19,2,70,asphalt,0,1.0002,94.0,92.8,2.92,Flat,1,0,Fair,High,0
+Maithripala Senanayake Mawatha (Main Street),trunk,1,8.341071,80.411665,8.339264,80.411631,200.0,161.49,2,60,asphalt,0,1.0009,85.5,86.6,0.55,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),trunk,2,8.339264,80.411631,8.337463,80.411512,200.0,345.77,2,60,asphalt,0,1.0023,87.8,87.1,0.35,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),trunk,3,8.337463,80.411512,8.335693,80.41115,200.0,146.88,2,70,asphalt,1,1.0015,94.5,93.4,0.55,Flat,1,0,Fair,High,1
+Jayanthi Mawatha,primary,1,8.342206,80.409344,8.340718,80.408373,200.0,121.17,2,70,asphalt,0,1.0194,93.9,95.1,0.6,Flat,0,1,Fair,High,0
+Jayanthi Mawatha,primary,2,8.340718,80.408373,8.339259,80.40731,200.0,317.39,2,60,asphalt,0,1.0035,89.6,91.0,0.7,Flat,0,1,Good,High,0
+Jayanthi Mawatha,primary,3,8.339259,80.40731,8.337583,80.406628,200.0,187.12,2,60,asphalt,0,1.0003,91.2,92.3,0.55,Flat,0,1,Good,High,0
+Jayanthi Mawatha,primary,4,8.337583,80.406628,8.336848,80.406344,87.14,43.57,2,60,asphalt,0,1.0008,87.8,88.7,1.03,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,1,8.33655,80.414581,8.338342,80.414821,200.0,412.36,2,60,asphalt,0,1.0006,86.9,87.4,0.25,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,2,8.338342,80.414821,8.340149,80.414913,200.0,434.0,2,60,asphalt,0,1.0,89.6,89.8,0.1,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha,primary,3,8.340149,80.414913,8.341174,80.414997,113.64,370.26,2,60,asphalt,1,1.0,88.5,87.3,1.06,Flat,1,1,Good,High,1
+Anagarika Dharmapala Mawatha,primary,1,8.336243,80.414532,8.33655,80.414581,34.35,295.46,2,60,asphalt,0,1.0,90.8,90.5,0.87,Flat,0,1,Good,High,0
+Unknown,tertiary,27,8.413573,80.419209,8.411799,80.419184,200.0,5027.26,2,40,asphalt,0,1.0196,85.8,85.4,0.2,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,28,8.411799,80.419184,8.41004,80.41876,200.0,4835.67,2,50,asphalt,1,1.0,94.7,94.0,0.35,Flat,0,0,Poor,Moderate,1
+Unknown,tertiary,29,8.41004,80.41876,8.408297,80.418277,200.0,4638.83,2,50,asphalt,0,1.0005,94.9,95.6,0.35,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,30,8.408297,80.418277,8.406572,80.41778,200.0,4442.75,2,50,gravel,0,1.008,92.0,92.0,0.0,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,31,8.406572,80.41778,8.405018,80.41688,200.0,4246.21,2,40,asphalt,0,1.0084,90.4,89.1,0.65,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,32,8.405018,80.41688,8.403417,80.417243,200.0,4062.35,2,40,asphalt,0,1.1022,88.1,87.3,0.4,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,33,8.403417,80.417243,8.402433,80.418755,200.0,4001.26,2,50,asphalt,0,1.0057,93.1,93.6,0.25,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,34,8.402433,80.418755,8.401384,80.420235,200.0,3983.72,2,50,asphalt,0,1.0,91.8,90.5,0.65,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,35,8.401384,80.420235,8.399965,80.421324,200.0,3953.41,2,40,asphalt,0,1.0129,86.6,87.7,0.55,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,36,8.399965,80.421324,8.398593,80.421438,200.0,3872.62,2,50,asphalt,0,1.314,94.1,94.1,0.0,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,37,8.398593,80.421438,8.39726,80.420316,200.0,3705.92,2,50,gravel,0,1.0401,93.2,93.1,0.05,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,38,8.39726,80.420316,8.395549,80.420808,200.0,3544.65,2,50,asphalt,0,1.0164,94.5,94.8,0.15,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,39,8.395549,80.420808,8.393911,80.421525,200.0,3457.83,2,50,asphalt,0,1.0124,92.3,93.3,0.5,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,40,8.393911,80.421525,8.392103,80.42157,200.0,3340.56,2,50,asphalt,0,1.0002,91.1,90.6,0.25,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,41,8.392103,80.42157,8.390448,80.421863,186.95,3221.05,2,40,gravel,0,1.0062,89.2,89.7,0.27,Flat,0,0,Good,Moderate,0
+Mihintale Road,trunk,1,8.355966,80.41827,8.35625,80.420064,200.0,100.02,2,70,asphalt,0,1.0,94.3,94.5,0.1,Flat,0,0,Fair,High,0
+Mihintale Road,trunk,2,8.35625,80.420064,8.356507,80.421862,200.0,300.0,2,70,asphalt,0,1.0,93.7,93.0,0.35,Flat,0,1,Fair,High,0
+Mihintale Road,trunk,3,8.356507,80.421862,8.355806,80.423463,200.0,489.48,2,60,asphalt,0,1.0386,85.5,86.6,0.55,Flat,0,1,Good,High,0
+Mihintale Road,trunk,4,8.355806,80.423463,8.355423,80.424209,92.49,613.55,2,60,asphalt,0,1.0008,85.3,86.2,0.97,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.334752,80.405246,8.3346,80.405115,22.15,272.14,2,60,asphalt,0,1.0001,88.8,89.3,2.26,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.3346,80.405115,8.33321,80.403954,200.0,224.84,2,70,asphalt,0,1.0005,93.1,94.2,0.55,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,2,8.33321,80.403954,8.332315,80.403262,124.87,62.45,2,70,asphalt,0,1.0,94.9,96.0,0.88,Flat,0,0,Fair,High,0
+Anula Mawatha,secondary,1,8.363463,80.395867,8.361775,80.396266,200.0,775.39,2,50,asphalt,0,1.0432,86.5,87.1,0.3,Flat,0,1,Good,Moderate,0
+Anula Mawatha,secondary,2,8.361775,80.396266,8.359968,80.396339,200.0,576.14,2,50,asphalt,0,1.0003,90.9,91.9,0.5,Flat,0,1,Fair,Moderate,0
+Anula Mawatha,secondary,3,8.359968,80.396339,8.358248,80.396786,200.0,377.33,2,50,asphalt,0,1.0182,88.8,89.4,0.3,Flat,0,1,Good,Moderate,0
+Anula Mawatha,secondary,4,8.358248,80.396786,8.356454,80.396935,200.0,183.74,2,60,asphalt,1,1.0049,94.7,95.2,0.25,Flat,0,0,Poor,Moderate,1
+Anula Mawatha,secondary,5,8.356454,80.396935,8.355695,80.3969,84.56,41.89,2,60,asphalt,0,1.0066,93.4,93.8,0.47,Flat,0,0,Fair,Moderate,0
+Lenin Mawatha,tertiary,1,8.306244,80.409471,8.305761,80.408993,75.01,314.67,2,50,concrete,0,1.0004,93.4,94.2,1.07,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,1,8.299317,80.413225,8.299332,80.415041,200.0,1228.12,2,40,asphalt,0,1.0,89.7,88.7,0.5,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,2,8.299332,80.415041,8.299297,80.416857,200.0,1360.0,2,40,asphalt,0,1.0,89.1,90.2,0.55,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,3,8.299297,80.416857,8.299297,80.418673,200.0,1305.12,2,40,asphalt,0,1.0001,87.7,88.8,0.55,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,4,8.299297,80.418673,8.299014,80.420462,200.0,1241.95,2,40,asphalt,0,1.0026,85.6,84.2,0.7,Flat,1,1,Good,Moderate,0
+Unknown,tertiary,5,8.299014,80.420462,8.29845,80.422178,200.0,1238.18,2,50,asphalt,0,1.0051,93.6,94.6,0.5,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,6,8.29845,80.422178,8.298432,80.422223,5.38,1263.55,2,50,asphalt,0,1.0075,93.1,92.0,20.45,Steep,0,0,Fair,Moderate,0
+Old Puttalam Road,primary,1,8.3276,80.361067,8.327786,80.361388,40.87,143.21,2,70,asphalt,0,1.0,95.0,94.5,1.22,Flat,0,0,Fair,High,0
+Sri Maha Bodhi Circular Road,tertiary,1,8.344005,80.398411,8.344041,80.396599,199.59,99.81,2,50,concrete,0,1.0001,95.0,95.7,0.35,Flat,0,0,Poor,Moderate,0
+Bandaranaike Mawatha,primary,1,8.334492,80.39764,8.334589,80.397008,70.43,35.25,2,60,asphalt,1,1.0002,90.6,89.6,1.42,Flat,1,1,Good,High,1
+Unknown,tertiary,1,8.40802,80.476745,8.406343,80.476555,200.0,5946.32,2,50,asphalt,0,1.0719,92.7,93.7,0.5,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,2,8.406343,80.476555,8.405844,80.476565,55.17,5840.55,2,50,asphalt,0,1.0,94.4,95.4,1.81,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,1,8.390423,80.421953,8.38975,80.423527,200.0,3220.18,2,50,asphalt,0,1.0605,93.5,93.5,0.0,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,2,8.38975,80.423527,8.389152,80.425241,200.0,3312.2,2,40,asphalt,0,1.0002,87.5,86.0,0.75,Flat,1,1,Good,Moderate,0
+Unknown,tertiary,3,8.389152,80.425241,8.387817,80.426331,200.0,3367.27,2,40,asphalt,0,1.0514,89.5,88.9,0.3,Flat,0,0,Good,Moderate,0
+Unknown,tertiary,4,8.387817,80.426331,8.386782,80.427753,200.0,3429.55,2,40,asphalt,0,1.0314,86.3,86.7,0.2,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,5,8.386782,80.427753,8.384993,80.427885,200.0,3417.86,2,50,asphalt,0,1.0085,94.5,95.9,0.7,Flat,0,0,Poor,Moderate,0
+Unknown,tertiary,6,8.384993,80.427885,8.383292,80.428502,200.0,3301.08,2,50,concrete,0,1.0002,91.1,91.5,0.2,Flat,0,0,Fair,Moderate,0
+Unknown,tertiary,7,8.383292,80.428502,8.382406,80.428867,105.88,3185.46,2,40,gravel,0,1.0,87.3,86.6,0.66,Flat,0,1,Good,Moderate,0
+Unknown,tertiary,1,8.390448,80.421863,8.390423,80.421953,10.29,3171.47,2,50,asphalt,0,1.0003,91.7,92.1,3.89,Mild Grade,0,0,Fair,Moderate,0
+Jaffna Road,trunk,1,8.35613,80.416829,8.357872,80.417321,200.0,100.03,2,60,asphalt,0,1.0,91.2,91.3,0.05,Flat,0,1,Good,High,0
+Jaffna Road,trunk,2,8.357872,80.417321,8.359613,80.417812,200.0,300.03,2,60,asphalt,0,1.0003,88.6,89.4,0.4,Flat,0,1,Good,High,0
+Jaffna Road,trunk,3,8.359613,80.417812,8.361348,80.418324,200.0,499.6,2,60,asphalt,0,1.0003,86.1,84.9,0.6,Flat,1,1,Good,High,0
+Jaffna Road,trunk,4,8.361348,80.418324,8.363072,80.418875,200.0,691.24,2,60,asphalt,0,1.0,91.7,92.5,0.4,Flat,0,1,Good,High,0
+Jaffna Road,trunk,5,8.363072,80.418875,8.364797,80.419422,200.0,886.19,2,60,asphalt,0,1.0,90.2,90.3,0.05,Flat,0,1,Good,High,0
+Jaffna Road,trunk,6,8.364797,80.419422,8.365024,80.419493,26.25,997.42,2,70,asphalt,0,1.0,92.7,94.1,5.33,Mild Grade,0,1,Good,High,0
+Jaffna Road,trunk,1,8.365024,80.419493,8.365085,80.419512,7.13,1013.87,2,60,asphalt,0,1.0098,90.2,89.7,7.01,Mild Grade,0,1,Good,High,0
+Puttalam Road,trunk,1,8.321324,80.380254,8.320998,80.381265,117.0,58.49,2,70,asphalt,1,1.0,93.5,93.9,0.34,Flat,0,1,Fair,High,1
+Puttalam Road,trunk,1,8.327016,80.362336,8.327192,80.360561,200.0,99.41,2,60,asphalt,0,1.0182,90.5,91.8,0.65,Flat,0,1,Good,High,0
+Puttalam Road,trunk,2,8.327192,80.360561,8.326774,80.359768,99.61,49.2,2,60,asphalt,0,1.0082,90.6,89.4,1.2,Flat,1,1,Good,High,0
+Puttalam Road,trunk,1,8.327016,80.362336,8.326556,80.364093,200.0,100.02,2,70,asphalt,0,1.0,93.8,95.1,0.65,Flat,0,1,Fair,High,0
+Puttalam Road,trunk,2,8.326556,80.364093,8.326086,80.365847,200.0,300.01,2,60,asphalt,0,1.0,89.0,89.6,0.3,Flat,0,1,Good,High,0
+Puttalam Road,trunk,3,8.326086,80.365847,8.32563,80.367604,200.0,499.99,2,60,asphalt,0,1.0003,86.3,85.0,0.65,Flat,1,1,Good,High,0
+Puttalam Road,trunk,4,8.32563,80.367604,8.325466,80.368213,69.48,634.73,2,60,asphalt,0,1.0002,85.3,84.7,0.86,Flat,0,1,Good,High,0
+Puttalam Road,trunk,1,8.325394,80.368479,8.325347,80.368655,20.14,709.82,2,70,asphalt,0,1.0037,92.6,93.2,2.98,Flat,0,1,Good,High,0
+Puttalam Road,trunk,1,8.325466,80.368213,8.325394,80.368479,30.28,684.61,2,60,asphalt,0,1.0,91.2,89.9,4.29,Mild Grade,1,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,1,8.322767,80.353243,8.323731,80.35478,200.0,744.13,2,70,asphalt,0,1.0,92.0,92.2,0.1,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,2,8.323731,80.35478,8.324681,80.356326,200.0,544.14,2,60,asphalt,0,1.0,87.1,86.6,0.25,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,3,8.324681,80.356326,8.325616,80.35788,200.0,344.14,2,60,asphalt,0,1.0004,86.4,86.8,0.2,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,4,8.325616,80.35788,8.326563,80.359428,200.0,144.15,2,60,asphalt,0,1.0,85.1,83.7,0.7,Flat,1,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,1,8.320906,80.350266,8.321869,80.351803,200.0,1131.18,2,60,asphalt,0,1.0002,88.5,89.6,0.55,Flat,0,1,Good,High,0
+Puttalam-Anuradhapura-Trincomalee Road,trunk,2,8.321869,80.351803,8.322767,80.353243,187.07,937.65,2,60,asphalt,2,1.0,90.9,92.3,0.75,Flat,0,1,Good,High,1
+Puttalam Road,trunk,1,8.326774,80.359768,8.32735,80.361196,174.95,86.07,2,60,asphalt,0,1.0312,88.9,90.3,0.8,Flat,0,1,Good,High,0
+Puttalam Road,trunk,1,8.32735,80.361196,8.327016,80.362336,131.28,65.34,2,60,asphalt,0,1.0033,89.4,90.1,0.53,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.320194,80.392883,8.32044,80.391193,188.11,94.02,2,70,asphalt,0,1.0002,94.0,92.9,0.58,Flat,1,0,Fair,High,0
+Jayanthi Mawatha,trunk,1,8.320194,80.392883,8.320797,80.394513,200.0,97.44,2,60,asphalt,0,1.0445,88.5,89.3,0.4,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.321198,80.394998,8.320912,80.394728,43.45,39.15,2,60,asphalt,0,1.0011,90.1,88.7,3.22,Mild Grade,1,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.320652,80.394463,8.320194,80.392883,192.39,92.01,2,70,asphalt,0,1.0617,92.8,91.4,0.73,Flat,1,1,Good,High,0
+Jayanthi Mawatha,trunk,1,8.336848,80.406344,8.335199,80.405604,200.0,99.97,2,60,asphalt,0,1.0015,89.0,88.5,0.25,Flat,0,1,Good,High,0
+Jayanthi Mawatha,trunk,2,8.335199,80.405604,8.334752,80.405246,63.22,230.49,2,60,asphalt,0,1.0001,91.2,91.2,0.0,Flat,0,1,Good,High,0
+Harischandra Mawatha,trunk,1,8.335121,80.410581,8.335391,80.410001,70.51,35.23,2,70,asphalt,1,1.0002,93.6,94.4,1.13,Flat,0,1,Fair,High,1
+Harischandra Mawatha,trunk,1,8.335391,80.410001,8.335433,80.409908,11.22,76.09,2,70,asphalt,0,1.0,94.5,95.0,4.46,Mild Grade,0,0,Fair,High,0
+Harischandra Mawatha,trunk,1,8.335466,80.409833,8.335511,80.40973,12.45,96.96,2,60,asphalt,0,1.0053,86.5,86.3,1.61,Flat,0,1,Good,High,0
+Harischandra Mawatha,trunk,1,8.335433,80.409908,8.335466,80.409833,9.04,86.22,2,70,asphalt,0,1.0013,94.3,93.6,7.74,Mild Grade,0,0,Fair,High,0
+Nivatthakachethiya Mawatha,trunk,1,8.342314,80.411876,8.34401,80.41224,200.0,94.71,2,60,asphalt,0,1.0431,89.9,91.4,0.75,Flat,0,1,Good,High,0
+Nivatthakachethiya Mawatha,trunk,2,8.34401,80.41224,8.345817,80.412317,200.0,218.47,2,60,asphalt,0,1.0002,87.6,87.4,0.1,Flat,0,1,Good,High,0
+Nivatthakachethiya Mawatha,trunk,3,8.345817,80.412317,8.347619,80.412386,200.0,366.92,2,60,asphalt,0,1.0031,89.6,89.5,0.05,Flat,0,1,Good,High,0
+Nivatthakachethiya Mawatha,trunk,4,8.347619,80.412386,8.348689,80.41223,120.4,502.14,2,70,asphalt,0,1.0072,94.8,93.8,0.83,Flat,1,0,Fair,High,0
+Mihindu Mawatha,primary,1,8.342515,80.396395,8.343331,80.396523,91.36,45.69,2,60,asphalt,0,1.0005,89.9,90.8,0.99,Flat,0,1,Good,High,0
+Unknown,tertiary,1,8.331182,80.416602,8.33121,80.416695,10.73,412.35,2,40,asphalt,0,1.003,88.3,88.9,5.59,Mild Grade,0,0,Good,Moderate,0
+Harischandra Mawatha,primary,1,8.331251,80.416678,8.332752,80.415691,200.0,317.07,2,60,asphalt,1,1.0082,91.3,90.5,0.4,Flat,1,1,Good,High,1
+Harischandra Mawatha,primary,2,8.332752,80.415691,8.333722,80.414169,200.0,123.53,2,60,asphalt,1,1.0052,87.4,86.1,0.65,Flat,1,1,Good,High,1
+Railway Place,secondary,1,8.344079,80.409571,8.343955,80.410542,107.81,53.86,2,50,asphalt,0,1.0002,85.8,86.3,0.46,Flat,0,1,Good,Moderate,0
+Railway Station Road,secondary,1,8.345081,80.409846,8.344079,80.409571,115.23,57.56,2,50,asphalt,0,1.0034,86.3,86.8,0.43,Flat,0,1,Good,Moderate,0
+Railway Station Road,secondary,1,8.343065,80.409444,8.34379,80.409518,80.64,40.27,2,50,asphalt,0,1.0009,86.3,85.6,0.87,Flat,0,1,Good,Moderate,0
+Maithripala Senanayake Mawatha (Main Street),primary,1,8.334802,80.410778,8.333147,80.410045,200.0,99.94,2,60,asphalt,1,1.0001,86.5,87.9,0.7,Flat,0,1,Good,High,1
+Maithripala Senanayake Mawatha (Main Street),primary,2,8.333147,80.410045,8.332066,80.409519,132.8,266.28,2,60,asphalt,0,1.0,86.4,85.4,0.75,Flat,1,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),primary,1,8.320755,80.400618,8.319513,80.399319,200.0,318.79,2,60,asphalt,0,1.0087,91.4,91.2,0.1,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),primary,2,8.319513,80.399319,8.318129,80.398154,200.0,119.53,2,60,asphalt,0,1.0016,86.8,88.1,0.65,Flat,0,1,Good,High,0
+Maithripala Senanayake Mawatha (Main Street),primary,1,8.320783,80.400668,8.320755,80.400618,6.3,420.0,2,60,asphalt,0,1.0,88.5,88.3,3.17,Mild Grade,0,1,Good,High,0
+Mihintale Road,trunk,1,8.355423,80.424209,8.35511,80.42599,200.0,755.95,2,70,asphalt,1,1.0044,94.0,94.4,0.2,Flat,0,1,Fair,High,1
+Mihintale Road,trunk,2,8.35511,80.42599,8.354634,80.42773,200.0,954.6,2,60,asphalt,0,1.0066,89.7,89.4,0.15,Flat,0,1,Good,High,0
+Mihintale Road,trunk,3,8.354634,80.42773,8.354096,80.429459,200.0,1149.8,2,60,asphalt,0,1.0028,91.7,91.0,0.35,Flat,0,1,Good,High,0
+Mihintale Road,trunk,4,8.354096,80.429459,8.353865,80.431244,200.0,1348.66,2,60,asphalt,0,1.0091,86.7,88.2,0.75,Flat,0,1,Good,High,0
+Mihintale Road,trunk,5,8.353865,80.431244,8.353974,80.433057,200.0,1177.09,2,60,asphalt,0,1.0001,86.9,86.6,0.15,Flat,0,1,Good,High,0
+Mihintale Road,trunk,6,8.353974,80.433057,8.354066,80.434871,200.0,977.1,2,60,asphalt,0,1.0,85.4,86.6,0.6,Flat,0,1,Good,High,0
+Mihintale Road,trunk,7,8.354066,80.434871,8.35417,80.436685,200.0,777.12,2,60,asphalt,0,1.0,86.7,85.9,0.4,Flat,1,1,Good,High,0
+Old Trincomalee Road,tertiary,1,8.351505,80.408378,8.350446,80.406907,200.0,99.98,2,40,asphalt,0,1.0007,87.8,86.9,0.45,Flat,0,1,Good,Moderate,0
+Old Trincomalee Road,tertiary,2,8.350446,80.406907,8.349654,80.405837,146.68,273.29,2,40,concrete,0,1.0,86.8,85.4,0.95,Flat,1,1,Good,Moderate,0
+Old Trincomalee Road,secondary,1,8.355093,80.414901,8.355479,80.415979,126.12,62.99,2,50,asphalt,0,1.0,85.9,86.4,0.4,Flat,0,1,Good,Moderate,0
+Old Trincomalee Road,secondary,1,8.355047,80.414788,8.355093,80.414901,13.49,132.78,2,50,asphalt,0,1.0036,86.2,85.8,2.97,Flat,0,1,Good,Moderate,0
+Anagarika Dharmapala Mawatha (Market Place),primary,1,8.341174,80.414997,8.341582,80.413457,200.0,285.37,2,60,asphalt,0,1.1398,89.6,90.7,0.55,Flat,0,1,Good,High,0
+Anagarika Dharmapala Mawatha (Market Place),primary,2,8.341582,80.413457,8.341625,80.411734,189.78,94.91,2,60,asphalt,0,1.0,87.1,87.0,0.05,Flat,0,1,Good,High,0
+Outer Circular Road (Watawandana Road),secondary,1,8.359691,80.372435,8.36083,80.373525,200.0,93.3,2,50,asphalt,0,1.1497,88.6,90.0,0.7,Flat,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,2,8.36083,80.373525,8.361662,80.374782,200.0,251.01,2,50,asphalt,0,1.2035,90.0,89.1,0.45,Flat,0,1,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,3,8.361662,80.374782,8.363126,80.375757,200.0,434.24,2,50,asphalt,0,1.0297,91.9,93.0,0.55,Flat,0,0,Fair,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,4,8.363126,80.375757,8.363175,80.375777,5.82,530.0,2,50,asphalt,0,1.0,85.4,86.2,13.75,Steep,0,1,Good,Moderate,0
+Outer Circular Road (Watawandana Road),secondary,1,8.363175,80.375777,8.363345,80.37585,20.44,542.26,2,50,asphalt,0,1.0,93.0,93.8,3.91,Mild Grade,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,1,8.35537,80.404437,8.355455,80.402623,200.0,162.25,2,50,asphalt,0,1.0002,91.3,92.3,0.5,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,2,8.355455,80.402623,8.355444,80.400823,200.0,361.34,2,50,asphalt,0,1.0091,85.8,86.6,0.4,Flat,0,1,Good,Moderate,0
+Thuparamaya Mawatha,secondary,3,8.355444,80.400823,8.355515,80.399009,200.0,332.95,2,60,asphalt,0,1.0006,93.7,94.1,0.2,Flat,0,0,Fair,Moderate,0
+Thuparamaya Mawatha,secondary,4,8.355515,80.399009,8.355586,80.397201,200.0,133.68,2,60,asphalt,0,1.0039,94.2,93.1,0.55,Flat,1,0,Poor,Moderate,0
+Ellakkattuwa Road,primary,1,8.342545,80.399215,8.344228,80.399874,200.0,99.91,2,60,asphalt,0,1.0014,85.6,84.2,0.7,Flat,1,1,Good,High,0
+Sri Rewatha Mawatha,secondary,1,8.342778,80.398061,8.342545,80.399215,130.41,65.15,2,50,asphalt,0,1.0058,87.8,89.1,1.0,Flat,0,1,Good,Moderate,0
+Sri Rewatha Mawatha,secondary,1,8.342752,80.397994,8.342778,80.398061,7.89,133.08,2,60,asphalt,0,1.0,93.1,93.4,3.8,Mild Grade,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.346725,80.405462,8.347515,80.40391,192.07,303.34,2,50,asphalt,0,1.0008,92.5,93.4,0.47,Flat,0,0,Fair,Moderate,0
+Sri Bharathindra Mawatha,secondary,1,8.346675,80.405564,8.346725,80.405462,12.46,201.12,2,50,asphalt,0,1.0,86.8,86.7,0.8,Flat,0,1,Good,Moderate,0
+Ellakkattuwa Road,primary,1,8.342545,80.399215,8.340943,80.398415,200.0,99.52,2,60,asphalt,0,1.0111,87.1,86.0,0.55,Flat,1,1,Good,High,0
+Ellakkattuwa Road,primary,2,8.340943,80.398415,8.339319,80.397986,185.93,288.99,2,60,asphalt,0,1.0015,88.7,87.6,0.59,Flat,1,1,Good,High,0
+Ellakkattuwa Road,primary,1,8.339319,80.397986,8.339253,80.397962,7.75,300.87,2,60,asphalt,0,1.0,89.8,90.4,7.74,Mild Grade,0,1,Good,High,0
+Malwatu Oya Left Bank Road,secondary,1,8.35105,80.408692,8.351167,80.408611,15.78,53.2,2,50,asphalt,0,1.0043,91.2,91.0,1.27,Flat,0,0,Fair,Moderate,0
+Bulankulama Tank Road,secondary,1,8.363415,80.394943,8.362045,80.39401,200.0,838.1,2,50,asphalt,0,1.0928,88.7,87.8,0.45,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,2,8.362045,80.39401,8.361733,80.393756,45.42,758.67,2,50,asphalt,0,1.0228,89.6,89.6,0.0,Flat,0,1,Good,Moderate,0
+Bulankulama Tank Road,secondary,1,8.361733,80.393756,8.3617,80.393657,11.5,752.92,2,50,asphalt,0,1.0004,92.5,91.2,11.3,Steep,1,0,Fair,Moderate,0
+Halpanu Ela Left Bank Road,secondary,1,8.343788,80.4031,8.345342,80.402795,175.12,87.57,2,50,asphalt,0,1.0003,85.4,85.6,0.11,Flat,0,1,Good,Moderate,0
+Halpanu Ela Left Bank Road,secondary,1,8.345342,80.402795,8.345479,80.402765,15.49,182.87,2,50,asphalt,0,1.0,87.5,86.8,4.52,Mild Grade,0,1,Good,Moderate,0
+Sri Maha Bodhi Mawatha,primary,1,8.344466,80.398938,8.344495,80.398758,20.06,117.66,2,70,asphalt,0,1.0,92.1,93.0,4.49,Mild Grade,0,1,Good,High,0

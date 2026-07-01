@@ -1,0 +1,11 @@
+Model Script	Balanced Accuracy	Testing Accuracy	Training Accuracy	Precision (Hotspot)	Recall (Hotspot)	F1 Score
+random_forest.py	57.43%	56.69%	67.66%	12.28%	58.33%	20.29%
+random_forest_with_smote_data.py	52.57%	61.42%	67.06%	10.64%	41.67%	16.95%
+tuned_random_forest.py	64.12%	62.06%	58.73%	15.38%	66.67%	25.00%
+tuned_random_forest_with_bo_smote.py	59.60%	60.63%	64.09%	13.46%	58.33%	21.88%
+tuned_random_forest_with_smote.py	57.08%	69.57%	69.31%	13.70%	41.67%	20.62%
+tuned_xgboost.py	64.00%	65.22%	65.87%	15.96%	62.50%	25.42%
+tuned_xgboost_with_bo_smote.py	47.72%	66.14%	74.21%	8.11%	25.00%	12.24%
+tuned_xgboost_with_smote.py	53.67%	73.52%	83.33%	12.28%	29.17%	17.28%
+xgboost_basic.py	63.51%	67.72%	74.40%	16.28%	58.33%	25.45%
+xgboost_with_smote_data.py	50.25%	84.25%	95.63%	10.00%	8.33%	9.09%

@@ -1,0 +1,5 @@
+Model,Best Parameters,Testing Accuracy,Training Accuracy,Precision,Recall,F1 Score,Confusion Matrix,Feature Importance
+"Basic XGB","N/A",87.40%,N/A,16.67%,8.33%,11.11%,Confusion_Matrix_basic_XGB.png,Feature_Importance_basic_XGB.png
+"Tuned XGB","'max_depth': 3, 'n_estimators': 300",85.38%,100.00%,6.67%,4.17%,5.13%,Matrix_2_Tuned_XGB.png,Feature_Importance_Tuned_XGB.png
+"With SMOTE (Tuned)","'smote__sampling_strategy': 0.5, 'xgb__max_depth': 3, 'xgb__n_estimators': 100",77.95%,94.05%,13.64%,25.00%,17.65%,Matrix_3_SMOTE_Tuned_XGB.png,Feature_Importance_SMOTE_Tuned_XGB.png
+"After Tuning With BO SMOTE","'xgb__colsample_bytree': 0.759, 'xgb__learning_rate': 0.168, 'xgb__max_depth': 4, 'xgb__n_estimators': 349, 'xgb__subsample': 0.654",81.10%,100.00%,7.14%,8.33%,7.69%,Matrix_BO_SMOTE_Tuned_XGB.png,Feature_Importance_BO_SMOTE_XGB.png
